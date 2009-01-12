@@ -10,12 +10,13 @@ include "8440head.php";
 Free and Open Source Software Development
 <br></font><font size=+2>Autumn 2009</font></h1>
 Course staff:
-<A href="http://samba.org/tridge">Dr Andrew Tridgell</A> (lecturer) 
+<A href="http://samba.org/tridge">Dr Andrew Tridgell</A> (lecturer)<br>
+<A href="http://cs.anu.edu.au/people.php?StaffID=8909374">Bob Edwards</A><br>
 </center>
 <p>
 
 <font color="#FF00FF"> These pages are currently under construction
-for 2009. Links may not work (yet).
+for 2009. Some links may not work (yet).
 </font><p>
 
 
@@ -58,48 +59,19 @@ href="http://studyat.anu.edu.au/courses/COMP8440;details.html">StudyAt</a>
 entry for Course Description and Learning Outcomes.
 
 <p>
-<li> The following <a href="COMP8440.pdf">document</a>  contains the proposed
-Syllabus, Topics, Rationale and Learning Outcomes for the course. 
-
-<!--
-<p>
-<li> Lecture times and venue: see the <a
-href="http://timetable.anu.edu.au/class/modules/modules3.asp?identifier=COMP8440_S1Y&weeks=1-52&days=1-7&intYear=&type=7">
-ANU timetable</a>. 
--->
-<p>
 
 <li>
 
-A total of 10 two-hour lectures will be given, see the
-<A HREF="schedule.php">course activity schedule</a> 
-for more details.
+A total of 18 hours of lectures will be given, plus a similar amount
+of tutorial/lab hourse. The course will have a very practical focus.
 
-<!--
-<p>
-<li>Tutorial/Laboratory session times also available from the
-<a
-href="http://timetable.anu.edu.au/class/modules/modules3.asp?identifier=COMP8440_S1Y&weeks=1-52&days=1-7&intYear=&type=7">
-ANU timetable</a>.
--->
-<!--    You attend only one lab session - the one you
-    <a href="https://cs.anu.edu.au/streams/">register</a> for! <br>
-Registrations open Monday week 1 and closes c.o.b. Monday week 2;
-after that, contact the course co-ordinator to request changes.
--->
-
-<!--
-<p>
-    <li> A <a href="./lectures/GenInfo.pdf">Course Administration Handout</a>
-	will be handed out in week 1.
--->
 <p>
      <li> News will be posted on the course
-	 <a href="https://cs.anu.edu.au/streams/forum.php?ForumID=169">
+	 <a href="https://cs.anu.edu.au/streams/forum.php?ForumID=232">
 	 Announcement forum</a> (staff post only). 
 <p>
      <li>	There is also a
-	<a href="https://cs.anu.edu.au/streams/forum.php?ForumID=168">
+	<a href="https://cs.anu.edu.au/streams/forum.php?ForumID=235">
 	Discussion forum</a> which will be (semi-) regularly 
 	monitored by the course staff.
 

@@ -88,11 +88,11 @@
 <table cellpadding="0" cellspacing="0" border="0" width="100%" class="menuTable">
 <tr>
 <td class="menuItem" width="8" valign="top" align="right" nowrap><a
-href="http://cs.anu.edu.au/student/comp8440/index.php" border="0"><img
+href="index.php" border="0"><img
 src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16"
 height="10" border="0" alt=""></a></td>  
 <td class="menuItem" width="100%"><a class="lftNav"
-href="http://cs.anu.edu.au/student/comp8440/index.php">Home</a></td> 
+href="index.php">Home</a></td> 
 </tr>
 
 <tr>
@@ -107,113 +107,112 @@ StudyAt</a></td>
 
 <tr>
 <td class="menuItem" width="8" valign="top" align="right" nowrap><a
-href="http://cs.anu.edu.au/student/comp8440/assessment.php"
+href="assessment.php"
 border="0"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
 width="16" height="10" border="0" alt=""></a></td>  
 <td class="menuItem" width="100%"><a class="lftNav"
-href="http://cs.anu.edu.au/student/comp8440/assessment.php">Assessment</a></td>  
+href="assessment.php">Assessment</a></td>  
 </tr>
 
 <tr>
 <td class="menuItem" width="8" valign="top" align="right" nowrap><a
-href="http://cs.anu.edu.au/student/comp8440/schedule.php"
+href="schedule.php"
 border="0"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
 width="16" height="10" border="0" alt=""></a></td>  
 <td class="menuItem" width="100%"><a class="lftNav"
-href="http://cs.anu.edu.au/student/comp8440/schedule.php">Schedule</a></td>
-</tr>
-
-<tr>
-<td class="menuItem" width="8" valign="top" align="right" nowrap><a
-href="http://cs.anu.edu.au/student/comp8440/lectures" border="0"><img
-src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16"
-height="10" border="0" alt=""></a></td>  
-<td class="menuItem" width="100%"><a class="lftNav"
-href="http://cs.anu.edu.au/student/comp8440/lectures">Lecture
-Notes</a></td> 
-</tr>
-
-<tr>
-<td class="menuItem" width="8" valign="top" align="right" nowrap><a
-href="http://cs.anu.edu.au/student/comp8440/labs" border="0"><img
-src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16"
-height="10" border="0" alt=""></a></td>  
-<td class="menuItem" width="100%"><a class="lftNav"
-href="http://cs.anu.edu.au/student/comp8440/labs">Tute / Labs</a></td> 
-</tr>
-
-<tr>
-<td class="menuItem" width="8" valign="top" align="right" nowrap><a
-href="http://cs.anu.edu.au/student/comp8440/assign"
-border="0"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
-width="16" height="10" border="0" alt=""></a></td>  
-<td class="menuItem" width="100%"><a class="lftNav"
-href="http://cs.anu.edu.au/student/comp8440/assign">Assignments</a></td> 
-</tr>
-
-<tr>
-<td class="menuItem" width="8" valign="top" align="right" nowrap> <a
-href="https://cs.anu.edu.au/streams/forum.php?ForumID=169" border="0"><img
-src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16"
-height="10" border="0" alt=""></a></td>  
-<td class="menuItem" width="100%"><a class="lftNav"
-href="https://cs.anu.edu.au/streams/forum.php?ForumID=169">Announcements</a></td> 
-</tr>
-
-
-
-
-
-<tr>
-<td class="menuItem" width="8" valign="top" align="right" nowrap> <a
-href="https://cs.anu.edu.au/streams/forum.php?ForumID=168" border="0"><img
-src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16"
-height="10" border="0" alt=""></a></td>  
-<td class="menuItem" width="100%"><a class="lftNav"
-href="https://cs.anu.edu.au/streams/forum.php?ForumID=168">Discussion</a></td> 
-</tr>
-
-
-
-<tr>
-<td class="menuItem" width="8" valign="top" align="right" nowrap><a
-href="http://cs.anu.edu.au/student/comp8440/texts.php"
-border="0"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
-width="16" height="10" border="0" alt=""></a></td>  
-<td class="menuItem" width="100%"><a class="lftNav"
-href="http://cs.anu.edu.au/student/comp8440/texts.php">Reading
-material</a></td> 
+href="schedule.php">Schedule</a></td>
 </tr>
 
 <!--
 <tr>
 <td class="menuItem" width="8" valign="top" align="right" nowrap><a
-href="http://cs.anu.edu.au/student/comp8440/exams"
+href="lectures" border="0"><img
+src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16"
+height="10" border="0" alt=""></a></td>  
+<td class="menuItem" width="100%"><a class="lftNav"
+href="lectures">Lecture
+Notes</a></td> 
+</tr>
+-->
+
+<!--
+<tr>
+<td class="menuItem" width="8" valign="top" align="right" nowrap><a
+href="assign"
 border="0"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
 width="16" height="10" border="0" alt=""></a></td>  
-<td class="menuItem" width="100%"><a class="lftNav" 
-href="http://cs.anu.edu.au/student/comp8440/exams">Old Exams</a></td>
-</tr> 
+<td class="menuItem" width="100%"><a class="lftNav"
+href="assign">Assignments</a></td> 
+</tr>
 -->
 
 <tr>
-<td class="menuItem" width="8" valign="top" align="right" nowrap><a
-href="http://cs.anu.edu.au/student/comp8440/links.php"
-border="0"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
-width="16" height="10" border="0" alt=""></a></td>  
+<td class="menuItem" width="8" valign="top" align="right" nowrap> <a
+href="https://cs.anu.edu.au/streams/forum.php?ForumID=232" border="0"><img
+src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16"
+height="10" border="0" alt=""></a></td>  
 <td class="menuItem" width="100%"><a class="lftNav"
-href="http://cs.anu.edu.au/student/comp8440/links.php">Links</a></td> 
+href="https://cs.anu.edu.au/streams/forum.php?ForumID=232">Announcements</a></td> 
 </tr>
+
+
+
+
 
 <tr>
+<td class="menuItem" width="8" valign="top" align="right" nowrap> <a
+href="https://cs.anu.edu.au/streams/forum.php?ForumID=235" border="0"><img
+src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16"
+height="10" border="0" alt=""></a></td>  
+<td class="menuItem" width="100%"><a class="lftNav"
+href="https://cs.anu.edu.au/streams/forum.php?ForumID=235">Discussion</a></td> 
+</tr>
+
+
+<!--
+<tr>
 <td class="menuItem" width="8" valign="top" align="right" nowrap><a
-href="http://cs.anu.edu.au/student/comp8440/help.php"
+href="texts.php"
 border="0"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
 width="16" height="10" border="0" alt=""></a></td>  
 <td class="menuItem" width="100%"><a class="lftNav"
-href="http://cs.anu.edu.au/student/comp8440/help.php">Getting Help</a></td> 
+href="texts.php">Reading
+material</a></td> 
 </tr>
+-->
 
+<!--
+<tr>
+<td class="menuItem" width="8" valign="top" align="right" nowrap><a
+href="exams"
+border="0"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
+width="16" height="10" border="0" alt=""></a></td>  
+<td class="menuItem" width="100%"><a class="lftNav" 
+href="exams">Old Exams</a></td>
+</tr> 
+-->
+
+<!--
+<tr>
+<td class="menuItem" width="8" valign="top" align="right" nowrap><a
+href="links.php"
+border="0"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
+width="16" height="10" border="0" alt=""></a></td>  
+<td class="menuItem" width="100%"><a class="lftNav"
+href="links.php">Links</a></td> 
+</tr>
+-->
+
+<!--
+<tr>
+<td class="menuItem" width="8" valign="top" align="right" nowrap><a
+href="help.php"
+border="0"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
+width="16" height="10" border="0" alt=""></a></td>  
+<td class="menuItem" width="100%"><a class="lftNav"
+href="help.php">Getting Help</a></td> 
+</tr>
+-->
 
 </table>
 </td>
