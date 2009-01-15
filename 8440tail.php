@@ -36,7 +36,7 @@
             Please direct all enquiries to: 
 
 <img src="http://cs.anu.edu.au/student/comp8320/comp8440email.jpg"
-align="top" alt="comp8440@cs">
+align="top" alt="comp8440@cs.anu.edu.au">
 
 <br>
 
