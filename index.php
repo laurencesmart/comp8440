@@ -18,12 +18,13 @@ Course staff:
 for 2009. Some links may not work (yet).
 </font><p>
 
-
+<!-- removed at request of an unnamed colleague
 <font color="#FF0000" size=-1><i>
 Software is like sex - it's better when it's free
 </font>
 -- Linus Torvalds
 </i>
+-->
 
 <hr noshade>
 <p>
