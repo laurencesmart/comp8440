@@ -14,10 +14,6 @@ Course staff:
 </center>
 <p>
 
-<font color="#FF00FF"> These pages are currently under construction
-for 2009. Some links may not work (yet).
-</font><p>
-
 <!-- removed at request of an un-named colleague
 <font color="#FF0000" size=-1><i>
 Software is like sex - it's better when it's free
@@ -36,14 +32,11 @@ Software is like sex - it's better when it's free
 
 <ul>
 
-<li> The course's formal requisite is enrolment in the  <a
-href="http://cs.anu.edu.au/masters">Master of Computing</a>. However,
-one-off enrollments may be made by people with the required assumed
-knowledge.  Also students taking other degrees, including 4th year
-undergraduates, may seek to enrol through special permission (contact
-the course coordinator). 
+<li>This course is part of the Masters of Computing program, but is
+also offered for other students via a range of flexible enrolment
+options. For information on enrolling in this course, please see <a
+href="enrol.php">enrolment information</a><p>
 
-<p>
 <li> Assumed knowledge is basic competence with using a Unix-like
 operating system (such as Linux). Having some competence in at least
 one programming language will be an advantage.
@@ -71,11 +64,12 @@ of tutorial/lab hours. The course will have a very practical focus.
 	monitored by the course staff.
 <p>
 <li>A preliminary <a href="schedule.php">timetable</a> is available
+<p>
+
+<li>Refreshments will be provided during the course
 
 <p>
-<li>Please see the <a
-href="http://studyat.anu.edu.au/courses/COMP8440;fees.html">course
-fees</a> page for information on fees for domestic and international students
+<li>The course flyer is available <a href="COMP8440_flyer.pdf">here</a>
 
 </ul>
 

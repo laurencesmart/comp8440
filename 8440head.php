@@ -47,7 +47,7 @@
                         margin-top: 14px;
                         margin-bottom: 0px;
                         text-align: left;">
-                 Faculty of Engineering and Information Technology (FEIT)            </div>
+                 College of Engineering and Computer Science (CECS)   </div>
                         <div class="headSubTitle" 
                  style="margin-left: 24px;
                         margin-right: 8px;
@@ -93,6 +93,16 @@ src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16"
 height="10" border="0" alt=""></a></td>  
 <td class="menuItem" width="100%"><a class="lftNav"
 href="index.php">Home</a></td> 
+</tr>
+
+<tr>
+<td class="menuItem" width="8" valign="top" align="right" nowrap><a
+href="http://info.anu.edu.au/StudyAt/_Engineering_and_IT/Undergraduate/Courses/_COMP8440.asp" border="0"><img
+src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16"
+height="10" border="0" alt=""></a></td>  
+<td class="menuItem" width="100%"><a class="lftNav" 
+href="enrol.php">
+Enrolling</a></td>
 </tr>
 
 <tr>

@@ -33,11 +33,8 @@
         <td align="center" height="10" class="footer">
             
 
-            Please direct all enquiries to: 
-
-<img src="http://cs.anu.edu.au/student/comp8320/comp8440email.jpg"
-align="top" alt="comp8440@cs.anu.edu.au">
-
+            Please direct all enquiries to: <a
+            href="mailto:comp8440@cs.anu.edu.au">comp8440@cs.anu.edu.au</a>
 <br>
 
 Page authorised by: Head of Department, DCS<!-- <b>Offical Development Page</b> -->
