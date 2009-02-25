@@ -56,6 +56,16 @@ Students undertaking the course as part of a Masters of Computing or
 Masters of Information Technology program can enrol
 using <a href="http://isis.anu.edu.au">ISIS</a>.
 
+
+<h3>Enrolment for Masters of Graduate Studies students</h3>
+
+Students undertaking the course as part of a Masters of Graduate
+Studies
+can <a href="http://studyat.anu.edu.au/programs/7990XGRADS;overview.html">apply
+online</a>, using a program name of "GRADUATE STUDIES" and a code
+number 7990XGRADS.
+
+
 <h3>Enrolment for non-award students</h3>
 
 Students enrolling in COMP8440 as an accredited, non-award program
