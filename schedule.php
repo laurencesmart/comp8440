@@ -32,6 +32,11 @@ see the material.
 from the Tuesday to the Saturday (inclusive) in the week after
 Easter. The course will run from 9am to 6pm each day (with breaks).
 
+<li><b>25th April, 2nd May, 9th May</b>. Laboratory sessions will be
+offered between 2pm and 5pm on the three Saturdays following the main
+course. These sessions are intended for students completing the
+assessment part of the course.
+
 <li><b>Assessment period</b>. After the main course is over, the
 students are expected to prepare materials for assessment, which will
 be due by Friday the 22nd of May. Details on assessment options will
