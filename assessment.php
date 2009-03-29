@@ -108,9 +108,9 @@ project as the one you used for the project work portion of your
 assessment. For example, if you think that the project you have been
 working with will not easily allow you to demonstrate your knowledge
 of the course material, then you may wish to choose a different
-project. You may also including information about more than one
-project if that helps, perhaps by comparing and contrasting aspects of
-two projects.<p>
+project. You may also include information about more than one project
+if that helps, perhaps by comparing and contrasting aspects of two
+projects.<p>
 
 As a rough guide, the report is expected to be about 10 to 15 pages
 long.<p>
