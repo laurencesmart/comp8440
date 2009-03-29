@@ -72,7 +72,13 @@ time available for this course, it is expected that many students will
 be not have an accepted submission by the time the project work report
 is due. What you should aim to demonstrate in your report is that you
 are following the established practices for your chosen project, and
-that you have been working towards a useful contribution.
+that you have been working towards a useful contribution.<p>
+
+You also do not need to restrict yourself to a single contribution to
+the project. For example, you may wish to make contributions to
+several different areas of the project. Contributions to the
+documentation, web pages, test suites and bug handling can be just as
+important as contributions to the projects source code.<p>
 
 <h2>Capturing interactions with your project</h2>
 
@@ -120,7 +126,7 @@ The study should cover at least:<p>
 <li>The history of the project</li>
 <li>The project governance structure</li>
 <li>The projects source code management practices</li>
-<li>Statistics on project Contributors</li>
+<li>Statistics on project contributors</li>
 <li>Information on who uses the project</li>
 <li>Information on any interactions or relationships with other projects</li>
 <li>Legal and licensing information</li>
