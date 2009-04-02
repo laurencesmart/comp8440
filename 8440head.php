@@ -142,6 +142,15 @@ width="16" height="10" border="0" alt=""></a></td>
 href="schedule.php">Schedule</a></td>
 </tr>
 
+<tr>
+<td class="menuItem" width="8" valign="top" align="right" nowrap><a
+href="lectures.php"
+border="0"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
+width="16" height="10" border="0" alt=""></a></td>  
+<td class="menuItem" width="100%"><a class="lftNav"
+href="lectures.php">Lectures</a></td>
+</tr>
+
 <!--
 <tr>
 <td class="menuItem" width="8" valign="top" align="right" nowrap><a
