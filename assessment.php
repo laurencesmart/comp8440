@@ -80,26 +80,6 @@ several different areas of the project. Contributions to the
 documentation, web pages, test suites and bug handling can be just as
 important as contributions to the projects source code.<p>
 
-<h2>Capturing interactions with your project</h2>
-
-In order to be able to write a good report, it is important that you
-keep good logs on your interactions with your chosen project.<p>
-
-For logging of interactions with the project that happen via web
-pages, the 'scrapbook' extension to Firefox is strongly
-recommended. You should get in the habit of using 'Capture Page' in
-scrapbook to capture key web pages as you come across them.<p>
-
-If your chosen project uses an instant messaging system for
-communication (for example, an IRC channel), then make sure you enable
-logging in the IM tool you use. For example, if you use the 'pidgin'
-tool, then make sure that 'Enable Logging' is set in the Options menu,
-and make sure you find out where the tool is storing logs of your
-conversations.<p>
-
-For command line interactions (for example building a project), you
-should get used to using the 'script' command to capture terminal
-output. See the script(1) manual page for details.
 
 <h1>Project Study</h1>
 
