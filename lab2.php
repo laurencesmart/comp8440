@@ -18,21 +18,26 @@ The 5 projects are:
 
 <ul>
 <li>FreeCIV
-<li>Battle for Wesnoth
 <li>gedit
+<li>Battle for Wesnoth
 <li>Stellarium
 <li>OpenOffice.org
 </ul>
 
 The level of difficulty in building these projects varies quite a
-lot. In order to maximize exposure of each students to as many
+lot. As a rough guide, the above list is approximately in order of
+difficulty, with FreeCIV being the easiest and OpenOffice.org the
+hardest. In order to maximize exposure of each students to as many
 projects as possible, when a student runs into difficulties we will
 often display their screen on the projector so we can discuss the
 problem as a class, and try to come to a solution together.<p>
 
-If possible, you should try to build the project using the latest
-development version (downloaded using a source code management
-system).<p>
+The level of difficulty is also heavily dependent on what method you
+use to fetch the source code. If you are very inexperienced with
+building FOSS packages, then the easiest approach will be to use the
+package manager to download the sources. If you are more experienced,
+then you should try to build the project using the latest development
+version (downloaded using a source code management system).<p>
 
 <h3>Helping other students</h3>
 
@@ -48,6 +53,23 @@ Some of the above project are very large, and downloading the source
 code using a SCMS may take too long for this lab. For that reason we
 have put a snapshot of some of the project trees in
 /comp8440/sources. See the build tips page for more information.
+
+<h3>Things to think about</h3>
+
+Here are some things to work out about the project you are building
+
+<ul>
+<li>How active is development? How many people have contributed
+changes in the last year?
+<li>What method does the project use to customise itself to your
+system?
+<li>How is the documentation for the project written?
+<li>How does the project handle releases? Does it use branches?
+<li>How does the project fit in with other projects? What does it
+depend on?
+<li>How do the developers for the project communicate?
+<li>How do you submit changes to the project?
+</ul>
 
 <p><div align="center">
   <?php
