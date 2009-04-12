@@ -82,7 +82,11 @@ change projects then you should discuss your choice with Andrew or
 Bob, to make sure you get some feedback before you start on the major
 assessment work.<p>
 
+<h1>Building a FOSS project</h1>
 
+Learning to build a FOSS project from source can be tricky
+sometimes. To get you started, you may find the <a
+href="building.php">build tips</a> page useful.
 
 <p><div align="center">
   <?php
