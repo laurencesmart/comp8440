@@ -21,6 +21,16 @@ the same lab machine each day, allowing the machine to be customised
 to suit the project being worked on (for example, by installing extra
 libraries or other package dependencies).<p>
 
+<h1>Introductory labs</h1>
+
+The two labs on the Tuesday and meant to get you started with the idea
+of working with FOSS projects. 
+
+<ul>
+<li><a href="lab1.php">Lab1: Building a2ps</a></li>
+<li><a href="lab2.php">Lab2: Choice of 5</a></li>
+</ul>
+
 <h1>Selecting a project</h1>
 
 The FOSS project you choose for your lab work will make a big
