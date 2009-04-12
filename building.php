@@ -6,7 +6,7 @@ include "8440head.php";
 
 <center>
 <h1>
-<font color="#931515" size=+3>COMP8440: Build Tips</font>
+<font color="#931515" size="+3">COMP8440: Build Tips</font>
 </h1>
 </center>
 
@@ -39,9 +39,9 @@ Most package managers have the ability to ask for the source code
 for a particular package to be downloaded. With apt on Ubuntu the
 command is:
 
-<b><pre>
+<pre><b>
   apt-get source PACKAGE
-</pre></b>
+</b></pre>
 
 This will typically download 4 things in to the current directory:
 
@@ -72,9 +72,9 @@ contain a directory called 'debian' which contains a 'rules' file that
 can be used to build the package. If you cd to the unpacked directory,
 you should be able to build the package using:
 
-<b><pre>
+<pre><b>
   debian/rules binary
-</pre></b>
+</b></pre>
 
 <h3>Using a release tarball</h3>
 
@@ -84,9 +84,9 @@ for an official release of the package.<p>
 
 Once you've unpacked that tarball using something like this:
 
-<b><pre>
+<pre><b>
   tar xvzf package-x.y-z.tar.gz
-</pre></b>
+</b></pre>
 
 You can start looking at the source code. Usually there is a text file
 in the top level directory which explains how to build the package, or
@@ -130,16 +130,16 @@ time. To save time, we have put copies of a checked out copy of some
 of the larger projects in /comp8440/sources. To grab one of those use
 a command like this:
 
-<b><pre>
+<pre><b>
   rsync -av /comp8440/sources/wesnoth .
-</pre></b>
+</b></pre>
 
 Then cd to the directory and use the appropriate SCM to get any
 updates. For example, if the project uses svn, then use the command:
 
-<b><pre>
+<pre><b>
   svn update
-</pre></b>
+</b></pre>
 
 
 <h2>Build Dependencies</h2>
@@ -180,9 +180,9 @@ Some package managers have a feature that allows you to automatically
 install all the build dependencies for an already packaged project. For
 example, on Ubuntu/Debian systems, you can run this:
 
-<b><pre>
+<pre><b>
   apt-get build-dep PACKAGE
-</pre></b>
+</b></pre>
 
 That is a very easy way to get the build dependencies installed. Be
 aware though that if you are trying to install a different version
@@ -207,7 +207,7 @@ very useful in trying to find the right package.
     $last_modified = getlastmod();
     print(date("j/m/Y, H:i", $last_modified));
   ?>
-<div><p>
+</div><p>
 
 <?php
 include "8440tail.php";

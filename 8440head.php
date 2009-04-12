@@ -13,7 +13,7 @@
 <!-- END DOCUMENT META DATA -->
 </head>
 
-<body marginheight="0" marginwidth="0" topmargin="0">
+<body>
 <!-- BEGIN HEADER -->
 
 <table cellspacing="0" cellpadding="0" border="0" width="100%" summary="Page header layout table">
@@ -26,11 +26,11 @@
                    background-repeat: repeat-y;">
              <div style="color: #FFFFFF;
                          margin-right: 8px;
-                         text-align: right;"">
+                         text-align: right;">
                  <a href="2004-01-08_cs_template.php#content" class="extNav" title="Move focus to the beginning of the page content">Skip Navigation</a> | 
                  <a href="http://www.anu.edu.au/" class="extNav" title="Australian National University Home">ANU Home</a> | 
                  <a href="http://www.anu.edu.au/mainsearch.php" class="extNav" title="Search ANU">Search ANU</a>  
- |                  <a href=http://# class=extNav title=Search FEIT>Search FEIT</a> |                  <a href=http://feit.whaite.com class=extNav title=Feedback>Feedback</a>             </div>
+ |                  <a href="http://#" class=extNav title="Search FEIT">Search FEIT</a> |                  <a href="http://feit.whaite.com" class=extNav title="Feedback">Feedback</a>             </div>
         </td>
     </tr>   
     <!-- END LINKS -->
@@ -88,7 +88,7 @@
 <table cellpadding="0" cellspacing="0" border="0" width="100%" class="menuTable">
 <tr>
 <td class="menuItem" width="8" valign="top" align="right" nowrap><a
-href="index.php" border="0"><img
+href="index.php"><img
 src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16"
 height="10" border="0" alt=""></a></td>  
 <td class="menuItem" width="100%"><a class="lftNav"
@@ -97,7 +97,7 @@ href="index.php">Home</a></td>
 
 <tr>
 <td class="menuItem" width="8" valign="top" align="right" nowrap><a
-href="http://info.anu.edu.au/StudyAt/_Engineering_and_IT/Undergraduate/Courses/_COMP8440.asp" border="0"><img
+href="http://info.anu.edu.au/StudyAt/_Engineering_and_IT/Undergraduate/Courses/_COMP8440.asp"><img
 src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16"
 height="10" border="0" alt=""></a></td>  
 <td class="menuItem" width="100%"><a class="lftNav" 
@@ -107,7 +107,7 @@ Enrolling</a></td>
 
 <tr>
 <td class="menuItem" width="8" valign="top" align="right" nowrap><a
-href="http://info.anu.edu.au/StudyAt/_Engineering_and_IT/Undergraduate/Courses/_COMP8440.asp" border="0"><img
+href="http://info.anu.edu.au/StudyAt/_Engineering_and_IT/Undergraduate/Courses/_COMP8440.asp"><img
 src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16"
 height="10" border="0" alt=""></a></td>  
 <td class="menuItem" width="100%"><a class="lftNav" 
@@ -117,8 +117,7 @@ StudyAt</a></td>
 
 <tr>
 <td class="menuItem" width="8" valign="top" align="right" nowrap><a
-href="assessment.php"
-border="0"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
+href="assessment.php"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
 width="16" height="10" border="0" alt=""></a></td>  
 <td class="menuItem" width="100%"><a class="lftNav"
 href="assessment.php">Assessment</a></td>  
@@ -126,8 +125,7 @@ href="assessment.php">Assessment</a></td>
 
 <tr>
 <td class="menuItem" width="8" valign="top" align="right" nowrap><a
-href="labwork.php"
-border="0"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
+href="labwork.php"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
 width="16" height="10" border="0" alt=""></a></td>  
 <td class="menuItem" width="100%"><a class="lftNav"
 href="labwork.php">Lab Work</a></td>  
@@ -135,8 +133,7 @@ href="labwork.php">Lab Work</a></td>
 
 <tr>
 <td class="menuItem" width="8" valign="top" align="right" nowrap><a
-href="schedule.php"
-border="0"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
+href="schedule.php"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
 width="16" height="10" border="0" alt=""></a></td>  
 <td class="menuItem" width="100%"><a class="lftNav"
 href="schedule.php">Schedule</a></td>
@@ -144,8 +141,7 @@ href="schedule.php">Schedule</a></td>
 
 <tr>
 <td class="menuItem" width="8" valign="top" align="right" nowrap><a
-href="lectures.php"
-border="0"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
+href="lectures.php"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
 width="16" height="10" border="0" alt=""></a></td>  
 <td class="menuItem" width="100%"><a class="lftNav"
 href="lectures.php">Lectures</a></td>
@@ -176,7 +172,7 @@ href="assign">Assignments</a></td>
 
 <tr>
 <td class="menuItem" width="8" valign="top" align="right" nowrap> <a
-href="https://cs.anu.edu.au/streams/forum.php?ForumID=232" border="0"><img
+href="https://cs.anu.edu.au/streams/forum.php?ForumID=232"><img
 src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16"
 height="10" border="0" alt=""></a></td>  
 <td class="menuItem" width="100%"><a class="lftNav"
@@ -189,7 +185,7 @@ href="https://cs.anu.edu.au/streams/forum.php?ForumID=232">Announcements</a></td
 
 <tr>
 <td class="menuItem" width="8" valign="top" align="right" nowrap> <a
-href="https://cs.anu.edu.au/streams/forum.php?ForumID=235" border="0"><img
+href="https://cs.anu.edu.au/streams/forum.php?ForumID=235"><img
 src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16"
 height="10" border="0" alt=""></a></td>  
 <td class="menuItem" width="100%"><a class="lftNav"
@@ -262,19 +258,19 @@ href="help.php">Getting Help</a></td>
     <td colspan="3" class="menuBody">
 <table cellpadding="0" cellspacing="0" border="0" width="100%" class="menuTable">
 				<tr>
-    				<td class="menuItem" width="8" valign="top" align="right" nowrap><a href="http://www.anu.edu.au/" border="0"><img src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16" height="10" border="0" alt=""></a></td> 
+    				<td class="menuItem" width="8" valign="top" align="right" nowrap><a href="http://www.anu.edu.au/"><img src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16" height="10" border="0" alt=""></a></td> 
     				<td class="menuItem" width="100%"><a class="lftNav" href="http://www.anu.edu.au/">ANU Home</a></td>
 				</tr>
 				<tr>
-    				<td class="menuItem" width="8" valign="top" align="right" nowrap><a href="http://feit.anu.edu.au/" border="0"><img src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16" height="10" border="0" alt=""></a></td> 
+    				<td class="menuItem" width="8" valign="top" align="right" nowrap><a href="http://feit.anu.edu.au/"><img src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16" height="10" border="0" alt=""></a></td> 
     				<td class="menuItem" width="100%"><a class="lftNav" href="http://feit.anu.edu.au/">FEIT Home</a></td>
 				</tr>
 				<tr>
-    				<td class="menuItem" width="8" valign="top" align="right" nowrap><a href="http://feit.anu.edu.au/Search.php" border="0"><img src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16" height="10" border="0" alt=""></a></td> 
+    				<td class="menuItem" width="8" valign="top" align="right" nowrap><a href="http://feit.anu.edu.au/Search.php"><img src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16" height="10" border="0" alt=""></a></td> 
     				<td class="menuItem" width="100%"><a class="lftNav" href="http://cs.anu.edu.au/">DCS Home</a></td>
 				</tr>
 <tr>
-    				<td class="menuItem" width="8" valign="top" align="right" nowrap><a href="http://feit.anu.edu.au/Search.php" border="0"><img src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16" height="10" border="0" alt=""></a></td> 
+    				<td class="menuItem" width="8" valign="top" align="right" nowrap><a href="http://feit.anu.edu.au/Search.php"><img src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16" height="10" border="0" alt=""></a></td> 
     				<td class="menuItem" width="100%"><a class="lftNav" href="http://feit.anu.edu.au/Search.php">Search</a></td>
 				</tr>
 

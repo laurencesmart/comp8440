@@ -6,21 +6,14 @@ include "8440head.php";
 
 <center>
 <h1>
-<font color="#931515" size=+3>COMP8440: <br>
+<font color="#931515" size="+3">COMP8440: <br>
 Free and Open Source Software Development
-<br></font><font size=+2>Autumn 2009</font></h1>
+<br></font><font size="+2">Autumn 2009</font></h1>
 Course staff:
 <A href="http://samba.org/tridge">Dr Andrew Tridgell</A> and <A href="http://cs.anu.edu.au/people.php?StaffID=8909374">Bob Edwards</A><br>
 </center>
 <p>
 
-<!-- removed at request of an un-named colleague
-<font color="#FF0000" size=-1><i>
-Software is like sex - it's better when it's free
-</font>
--- Linus Torvalds
-</i>
--->
 
 <hr noshade>
 <p>
@@ -81,7 +74,7 @@ of tutorial/lab hours. The course will have a very practical focus.
     $last_modified = getlastmod();
     print(date("j/m/Y, H:i", $last_modified));
   ?>
-<div><p>
+</div><p>
 
 <?php
 include "8440tail.php";

@@ -6,7 +6,7 @@ include "8440head.php";
 
 <center>
 <h1>
-<font color="#931515" size=+3>COMP8440: Assessment</font>
+<font color="#931515" size="+3">COMP8440: Assessment</font>
 </h1>
 </center>
 
@@ -133,7 +133,7 @@ in your first contact with a project member is a good way to do this.
     $last_modified = getlastmod();
     print(date("j/m/Y, H:i", $last_modified));
   ?>
-<div><p>
+</div><p>
 
 <?php
 include "8440tail.php";

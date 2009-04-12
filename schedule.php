@@ -6,8 +6,9 @@ include "8440head.php";
 
 <center>
 <h1>
-<font color="#931515" size=+3>COMP8440: Schedule</font>
+<font color="#931515" size="+3">COMP8440: Schedule</font>
 </h1>
+</center>
 
 
 
@@ -20,7 +21,8 @@ include "8440head.php";
 
 The course will be divided into three phases
 
-<ul> <li><b>2nd April - Information Evening</b>. On Thursday the 2nd
+<ul>
+<li><b>2nd April - Information Evening</b>. On Thursday the 2nd
 of April starting at 7pm there will be an introductory evening for
 students. The course material will be outlined, and students will be
 given some reading material that should be studied before the main
@@ -41,6 +43,7 @@ assessment part of the course.
 students are expected to prepare materials for assessment, which will
 be due by Friday the 22nd of May. Details on assessment options will
 be made available on this website closer to the start of the course.
+</ul>
 
 <h2>Detailed Schedule</h2>
 
@@ -120,7 +123,7 @@ Saturday
     $last_modified = getlastmod();
     print(date("j/m/Y, H:i", $last_modified));
   ?>
-<div><p>
+</div><p>
 
 <?php
 include "8440tail.php";

@@ -46,7 +46,6 @@ Page authorised by: Head of Department, DCS<!-- <b>Offical Development Page</b> 
         </td>
     </tr>
 </table>
-</div>
 <!-- END FOOTER -->
 </body>
 </html>

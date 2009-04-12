@@ -6,7 +6,7 @@ include "8440head.php";
 
 <center>
 <h1>
-<font color="#931515" size=+3>COMP8440: Lab Work</font>
+<font color="#931515" size="+3">COMP8440: Lab Work</font>
 </h1>
 </center>
 
@@ -105,7 +105,7 @@ href="building.php">build tips</a> page useful.
     $last_modified = getlastmod();
     print(date("j/m/Y, H:i", $last_modified));
   ?>
-<div><p>
+</div><p>
 
 <?php
 include "8440tail.php";
