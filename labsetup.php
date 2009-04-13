@@ -47,7 +47,7 @@ include "8440head.php";
 <li>There is a "Pidgin" Internet Relay Chat/Messenger icon to start "pidgin"</li>
 <li>Firefox has some useful plugins added: Add Block Plus (ABP); Zotero and Scrapbook</li>
 <li>Firefox hompage is set to our COMP8440 course page</li>
-<li>under "Places" there is a link to your files on the "dubhe" FOSSD course server<li>
+<li>under "Places" there is a link to your files on the "dubhe" FOSSD course server</li>
 </ul>
 
 <h2>FOSSD Lab Server</h2>
@@ -59,11 +59,13 @@ include "8440head.php";
 <p>As a part of the Ubuntu Intrepid software image we have prepared for you, there is an icon on the desktop "Backup System". Double clicking on that icon will backup your entire system image (including any new packages you have installed and your home directory). You may be prompted for your password on the FOSSD lab server.</p>
 
 <h2>Restoring your environment</h2>
-<p>You can restore your system environment even when you are booted into the FOSSD system by running the following command in a terminal:</p>
+
+<p>In case of emergency, you can restore your system environment even when you are booted into the FOSSD system by running the following command in a terminal:</p>
 <pre>
 sudo /comp8440/bin/restore_fossd_system
 </pre>
-<p>Make sure you have saved any work you are currently editing etc. and have "Backup System" your system!. After running the restore command, you should use the "&lt;ctrl&gt;&lt;alt&gt;&lt;Backspace&gt; triple key-press to kill the running X-windows server and then you can re-login.</p>
+<p>This should not be needed during normal operation.
+<p>Make sure you have saved any work you are currently editing etc. and have "Backup System" your system!. After running the restore command, you should use the "&lt;ctrl&gt;&lt;alt&gt;&lt;Backspace&gt;" triple key-press to kill the running X-windows server and then you can re-login.</p>
 
 <p>You can also restore your environment onto another system (even one that someone else may have been using - so please be considerate and be careful!). Boot your lab machine using the "net" image and then follow the instructions as for an Initial Setup (above). If you change your encrypted filesystem passphrase, you will get a fresh install, which will take longer and will destroy any work already on the machine (including someone elses).</p>
 

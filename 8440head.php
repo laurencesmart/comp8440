@@ -125,6 +125,14 @@ href="assessment.php">Assessment</a></td>
 
 <tr>
 <td class="menuItem" width="8" valign="top" align="right" nowrap><a
+href="labsetup.php"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
+width="16" height="10" border="0" alt=""></a></td>  
+<td class="menuItem" width="100%"><a class="lftNav"
+href="labsetup.php">Lab Setup</a></td>  
+</tr>
+
+<tr>
+<td class="menuItem" width="8" valign="top" align="right" nowrap><a
 href="labwork.php"><img src="http://styles.anu.edu.au/_images/dotGrey.gif"
 width="16" height="10" border="0" alt=""></a></td>  
 <td class="menuItem" width="100%"><a class="lftNav"

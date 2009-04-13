@@ -94,7 +94,7 @@ Friday
 10:45 Lab: project work
 12:00 Lecture: FOSS distributions and platforms
 13:00 Lunch
-14:00 Lecture: FOSS and Security
+14:00 Lecture: FOSS Culture
 15:00 Afternoon tea
 15:15 Lab: project work
 17:45 close
