@@ -38,6 +38,9 @@ include "8440head.php";
 
 <p>When that is complete, you can reboot your machine and then select "fossd" from the network boot prompt which will boot into the encrypted filesystem. You will be prompted for the passphrase you have chosen for the encrypted filesystem. It is <b>very</b> important that you do not forget this passphrase!</p>
 
+<p>Please try and use the same machine for all COMP8440 labwork, so
+that you are least likely to disturb another students machine</p>
+
 <h2>FOSSD Lab Environment</h2>
 <p>The "standard environment" that we have prepared for each FOSSD lab machine includes the standard Ubuntu Intrepid "Gnome" desktop environment with a couple of customisations:</p>
 <ul>
