@@ -14,7 +14,14 @@ The aim of this lab is similar to the previous 'a2ps' lab, but you
 will have a choice of 5 projects to investigate. The idea is to expose
 you to a wider range of common FOSS project ideas.
 
-The 5 projects are:
+<p>In this lab you will also need to create a patch against your
+chosen project, and submit that patch to the <a
+href="mailto:comp8440@dubhe.anu.edu.au">comp8440@dubhe.anu.edu.au</a>
+mailing list. Then you should look for another students patch
+submission for the same project apply their patch, and send back a
+reply to them commenting on their patch.
+
+<p>The 5 projects are:
 
 <ul>
 <li>FreeCIV
@@ -52,7 +59,8 @@ projector.
 Some of the above project are very large, and downloading the source
 code using a SCMS may take too long for this lab. For that reason we
 have put a snapshot of some of the project trees in
-/comp8440/sources. See the build tips page for more information.
+/comp8440/sources. See the <a href="building.php">build tips</a> page
+for more information.
 
 <h3>Things to think about</h3>
 
@@ -70,6 +78,63 @@ depend on?
 <li>How do the developers for the project communicate?
 <li>How do you submit changes to the project?
 </ul>
+
+<h3>Patch submission</h3>
+
+Once you have successfully built the project, you should generate a
+patch against it, and submit that patch to the comp8440 mailing list.
+
+<p>To generate a patch, first make a code change of some sort. It is
+not necessary for this to be a serious or substantial code change -
+any small change will do for the purposes of this lab.
+
+<p>Once you have made the change, you will need to generate the
+patch. You can either use the 'diff' tool, or you can use the builtin
+patch generation in a source code management tool if you used one to
+download the package. 
+
+<p>Your patch submission should meet the following criterion:
+
+<ul>
+<li>You must have tested that your change works
+<li>It should be in diff -up format
+<li>The patch should be inline in the email, not sent as an attachment
+<li>It should contain the diffstat output at the front
+<li>It should contain an explanation of your changes
+<li>It should have a clear subject, prefixed with "[PATCH]"
+<li>It should say "Signed-off-by: YOUR EMAIL"
+</ul>
+
+If you want to see some examples of patches, you might like to look at
+the <a href="http://marc.info/?l=linux-kernel">Linux kernel mailing
+list</a>, for messages starting with "[PATCH]"
+
+<h3>Patch acceptance</h3>
+
+After submitting a patch, wait for someone else in the lab to submit a
+different patch for the same project. You should then examine their
+patch, and try to apply it to your copy of the project. You will need
+to use the 'patch' tool to do that. 
+
+<p>A typical patch command would be:
+<pre><b>
+  patch -p1 < somepatch.patch 
+</b></pre>
+
+<p>After examining and testing their patch, you should either accept
+it or reject it by sending a reply to the person submitting the
+patch. You should make sure your reply is CCd to the mailing list. In
+your reply you should explain your acceptance or rejection of the
+patch. If you reject their patch, then you should watch for a further
+email from them fixing whatever problems you identified in their
+patch. If the patch is now acceptable, you can reply saying that you
+accept their patch.
+
+<h3>Lab continuation</h3>
+
+Don't worry if you don't complete the work for this lab in the time
+alotted. You can continue with this lab during the next lab session if
+need be.
 
 <p><div align="center">
   <?php
