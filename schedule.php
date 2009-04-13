@@ -58,7 +58,7 @@ Tuesday
 10:45 Lab: Install a FOSS project - all on one project
 12:00 Lecture: Getting started in a FOSS project
 13:00 Lunch
-14:00 Lecture: How are FOSS projects governed?
+14:00 Lecture: Source code management for FOSS projects
 15:00 Afternoon tea
 15:15 Lab: Installing a FOSS project - choice of 5
 17:45 close
@@ -77,7 +77,7 @@ Wednesday
 
 Thursday
  9:00 discussion of FOSS project work
- 9:30 Lecture: Source code management for FOSS projects
+ 9:30 Lecture: How are FOSS projects governed?
 10:30 morning tea
 10:45 Lab: getting in touch with the project
 12:00 Lecture: FOSS and business
