@@ -77,6 +77,12 @@ What are the advantages and disadvantages of each approach?
 You may find some of the tips on the <a href="scm-tips.php">SCM
 Tips</a> page useful for this lab.
 
+<h1>MAKE SURE YOU BACKUP</h1>
+
+Make sure you do a backup at the end of the lab, or you may lose all
+your work.
+
+
 <p><div align="center">
   <?php
     print " Last modified: ";

@@ -76,6 +76,11 @@ to present your project in any way you want to. Some suggestions
 include a OpenOffice presentation, or a set of web pages, or a
 live demonstration.
 
+<h1>MAKE SURE YOU BACKUP</h1>
+
+Make sure you do a backup at the end of each lab, or you may lose all
+your work.
+
 <p><div align="center">
   <?php
     print " Last modified: ";
