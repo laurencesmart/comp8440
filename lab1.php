@@ -72,6 +72,10 @@ information on each of these approaches.<p>
 
 What are the advantages and disadvantages of each approach?
 
+<h2>SCM Tips</h2>
+
+You may find some of the tips on the <a href="scm-tips.php">SCM
+Tips</a> page useful for this lab.
 
 <p><div align="center">
   <?php

@@ -136,6 +136,11 @@ Don't worry if you don't complete the work for this lab in the time
 alotted. You can continue with this lab during the next lab session if
 need be.
 
+<h3>SCM Tips</h3>
+
+You may find some of the tips on the <a href="scm-tips.php">SCM
+Tips</a> page useful for this lab.
+
 <p><div align="center">
   <?php
     print " Last modified: ";
