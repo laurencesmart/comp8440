@@ -23,6 +23,9 @@ will need to be able to receive email to that account while in the
 lab. You will find that the email icon in the main menu bar of your
 lab system should be already setup for accessing your ANU mail account<p>
 
+<p>Once you have joined the list, send a very short email to the list
+to make sure it is working.
+
 <h2>Investigating a2ps</h2>
 
 The aim of this lab is to build and install the 'anything to
