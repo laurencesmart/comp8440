@@ -31,8 +31,6 @@ first lab material.<p>
 href="lectures/introduction_to_foss.pdf">introduction_to_foss.pdf</a></ul>
 
 
-<!--
-
 <h2>Lecture 2: Getting started in a FOSS project</h2>
 
 This lecture deals with how to research a FOSS project, so that you
@@ -48,6 +46,8 @@ management tool for FOSS projects.<p>
 
 <ul><li><a
 href="lectures/source_code_management.pdf">source_code_management.pdf</a></ul>
+
+<!--
 
 <h2>Lecture 4: FOSS History</h2>
 
