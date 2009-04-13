@@ -61,13 +61,41 @@ include "8440head.php";
 <h2>Restoring your environment</h2>
 
 <p>In case of emergency, you can restore your system environment even when you are booted into the FOSSD system by running the following command in a terminal:</p>
-<pre>
-sudo /comp8440/bin/restore_fossd_system
-</pre>
+<pre><b>
+ sudo /comp8440/bin/restore_fossd_system
+</b></pre>
 <p>This should not be needed during normal operation.
 <p>Make sure you have saved any work you are currently editing etc. and have "Backup System" your system!. After running the restore command, you should use the "&lt;ctrl&gt;&lt;alt&gt;&lt;Backspace&gt;" triple key-press to kill the running X-windows server and then you can re-login.</p>
 
 <p>You can also restore your environment onto another system (even one that someone else may have been using - so please be considerate and be careful!). Boot your lab machine using the "net" image and then follow the instructions as for an Initial Setup (above). If you change your encrypted filesystem passphrase, you will get a fresh install, which will take longer and will destroy any work already on the machine (including someone elses).</p>
+
+<h2>Changing your filesystem passphrase</h2>
+
+If you want to change the filesystem passphrase on a running system,
+use this command:
+<pre><b>
+ sudo /comp8440/bin/change_passphrase
+</b></pre>
+You will be prompted for your old passphrase.
+
+<p>Note that if you forget your passphrase there is nothing we can do
+to recover it. You will have lost all the work you have done since
+your last backup.
+
+<h2>Summary</h2>
+
+In summary, these are the commands you need to know:
+
+<ul>
+<li>To install a FOSSD system, boot to the normal CSIT environment and
+click on the "FOSSD Setup" icon
+<li>To copy everything from a running FOSSD system to the server,
+double click on the "Backup System" icon
+<li>To restore from the server to your local FOSSD system, overwriting
+all your local files, run "sudo /comp8440/bin/restore_fossd_system"
+<li>To change your encrypted filesystem passphrase, use "sudo
+/comp8440/bin/change_passphrase"
+</ul>
 
 <h2>Final Note</h2>
 <p>You MUST backup your work regularly (using the "Backup System" icon on your desktop) as there is a possibility of hardware failure, software failure, accidental deletion and someone overwriting your encypted filesystem. You have been warned (again!).</p>
