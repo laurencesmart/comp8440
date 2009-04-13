@@ -32,11 +32,43 @@ include "8440head.php";
 
 <p>A new terminal window should appear and you will be prompted for your login password (to allow you "superuser" access).</p>
 
-<p>Then you will be prompted for a password for the encrypted filesystem, twice. You can press the "Enter" key each time to use the default FOSSD password for the encrypted filesystem (written up on the whiteboard in the lab), or you can make up a new password - but don't forget it!</p>
+<p>Then you will be prompted for a passphrase for the encrypted filesystem, twice. You can press the "Enter" key each time to use the default FOSSD passphrase for the encrypted filesystem (written up on the whiteboard in the lab), or you can make up a new passphrase - but don't forget it!</p>
 
 <p>Then you may be prompted for your login password one last time before the system initialises the partition with the Ubuntu Intrepid image we have prepared. As a part of this initialisation, an account will be created for you in this image.</p>
 
-<p>When that is complete, you can reboot your machine and then select "fossd" from the network boot prompt which will boot into the encrypted filesystem. You will be prompted for the password you have chosen for the encrypted filesystem.</p>
+<p>When that is complete, you can reboot your machine and then select "fossd" from the network boot prompt which will boot into the encrypted filesystem. You will be prompted for the passphrase you have chosen for the encrypted filesystem. It is <b>very</b> important that you do not forget this passphrase!</p>
+
+<h2>FOSSD Lab Environment</h2>
+<p>The "standard environment" that we have prepared for each FOSSD lab machine includes the standard Ubuntu Intrepid "Gnome" desktop environment with a couple of customisations:</p>
+<ul>
+<li>There is a "Terminal" icon in the task bar so that you can quickly get a shell (commandline) prompt</li>
+<li>We have installed a number of packages including most of the common version control systems</li>
+<li>There is a "Backup System" icon (see below)</li>
+<li>There is a "Pidgin" Internet Relay Chat/Messenger icon to start "pidgin"</li>
+<li>Firefox has some useful plugins added: Add Block Plus (ABP); Zotero and Scrapbook</li>
+<li>Firefox hompage is set to our COMP8440 course page</li>
+<li>under "Places" there is a link to your files on the "dubhe" FOSSD course server<li>
+</ul>
+
+<h2>FOSSD Lab Server</h2>
+<p>A dedicated file server has been set up for the FOSSD course for 2009. This server has the DNS name "dubhe.anu.edu.au" and is accessible from most anywhere on the Internet. You can log into this server from anywhere using Secure SHell (ssh), your standard ANU UniID and associated password. Please do not run large (CPU-intensive) jobs on this machine as it will be used heavily during the course for backups etc.</p>
+
+<p>Also, although this server has more or less unrestricted access to the Internet, please do not use this to run peer-to-peer applications (unless that is a part of your chosen Open Source project) or in any other way abuse access to this machine and it's Internet connection.</p>
+
+<h2>Backing up your work</h2>
+<p>As a part of the Ubuntu Intrepid software image we have prepared for you, there is an icon on the desktop "Backup System". Double clicking on that icon will backup your entire system image (including any new packages you have installed and your home directory). You may be prompted for your password on the FOSSD lab server.</p>
+
+<h2>Restoring your environment</h2>
+<p>You can restore your system environment even when you are booted into the FOSSD system by running the following command in a terminal:</p>
+<pre>
+sudo /comp8440/bin/restore_fossd_system
+</pre>
+<p>Make sure you have saved any work you are currently editing etc. and have "Backup System" your system!. After running the restore command, you should use the "&lt;ctrl&gt;&lt;alt&gt;&lt;Backspace&gt; triple key-press to kill the running X-windows server and then you can re-login.</p>
+
+<p>You can also restore your environment onto another system (even one that someone else may have been using - so please be considerate and be careful!). Boot your lab machine using the "net" image and then follow the instructions as for an Initial Setup (above). If you change your encrypted filesystem passphrase, you will get a fresh install, which will take longer and will destroy any work already on the machine (including someone elses).</p>
+
+<h2>Final Note</h2>
+<p>You MUST backup your work regularly (using the "Backup System" icon on your desktop) as there is a possibility of hardware failure, software failure, accidental deletion and someone overwriting your encypted filesystem. You have been warned (again!).</p>
 
 <?php
 include "8440tail.php";
