@@ -18,8 +18,37 @@ given.
 This lecture provides an overview of the course material, and sets
 some reading tasks and project tasks.<p>
 
-<ul><li><a href="lectures/course_introduction.pdf">course_introduction.pdf</a></ul>
+<ul><li><a
+href="lectures/course_introduction.pdf">course_introduction.pdf</a></ul>
 
+
+<h2>Lecture 1: Introduction to FOSS</h2>
+
+This lecture gives an overview of the FOSS world, and introduces the
+first lab material.<p>
+
+<ul><li><a
+href="lectures/introduction_to_foss.pdf">introduction_to_foss.pdf</a></ul>
+
+<!--
+
+<h2>Lecture 2: Getting started in a FOSS project</h2>
+
+This lecture deals with how to research a FOSS project, so that you
+know enough to start contributing.<p>
+
+<ul><li><a
+href="lectures/getting_started.pdf">getting_started.pdf</a></ul>
+
+<h2>Lecture 3: Source code management</h2>
+
+This lecture goes through the theory and practice of using source code
+management tool for FOSS projects.<p>
+
+<ul><li><a
+href="lectures/source_code_management.pdf">source_code_management.pdf</a></ul>
+
+-->
 
 <hr>
 
