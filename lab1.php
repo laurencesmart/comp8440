@@ -10,6 +10,21 @@ include "8440head.php";
 </h1>
 </center>
 
+<h2>Lab Setup</h2>
+
+As this is the first lab, you should read the <a
+href="labsetup.php">Lab Setup</a> page and follow the instructions on
+that page to get the FOSSD environment installed and running.
+
+<p>Next, you should join the <a
+href="http://dubhe.anu.edu.au/cgi-bin/mailman/listinfo">comp8440
+mailing list</a> using your ANU student email account. Note that you
+will need to be able to receive email to that account while in the
+lab. You will find that the email icon in the main menu bar of your
+lab system should be already setup for accessing your ANU mail account<p>
+
+<h2>Investigating a2ps</h2>
+
 The aim of this lab is to build and install the 'anything to
 postscript' a2ps project. The a2ps project has been chosen as it
 provides an illustration of the many of the types of problems you are
