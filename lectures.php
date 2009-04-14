@@ -47,8 +47,6 @@ management tool for FOSS projects.<p>
 <ul><li><a
 href="lectures/source_code_management.pdf">source_code_management.pdf</a></ul>
 
-<!--
-
 <h2>Lecture 4: FOSS History</h2>
 
 This lecture gives an overview of the history of FOSS, covering some
@@ -71,6 +69,8 @@ This lecture looks at how FOSS interacts with the legal system.<p>
 
 <ul><li><a
 href="lectures/foss_law.pdf">foss_law.pdf</a></ul>
+
+<!--
 
 <h2>Lecture 7: FOSS Governance</h2>
 
