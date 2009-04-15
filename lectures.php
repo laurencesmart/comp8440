@@ -70,8 +70,6 @@ This lecture looks at how FOSS interacts with the legal system.<p>
 <ul><li><a
 href="lectures/foss_law.pdf">foss_law.pdf</a></ul>
 
-<!--
-
 <h2>Lecture 7: FOSS Governance</h2>
 
 This lecture looks at how FOSS projects are governed.<p>
@@ -92,6 +90,8 @@ This lecture looks at the diverse motivations of FOSS developers.<p>
 
 <ul><li><a
 href="lectures/foss_motivation.pdf">foss_motivation.pdf</a></ul>
+
+<!--
 
 <h2>Lecture 10: Case study: Samba</h2>
 
