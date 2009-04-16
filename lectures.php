@@ -52,9 +52,7 @@ management tool for FOSS projects.</p>
 
 <ul>
 <li><a href="lectures/source_code_management.pdf">source_code_management.pdf</a></li>
-<!--
 <li><a href="videos/MOV008.ogv">video</a> ( Ogg/Theora)</li>
--->
 </ul>
 
 <h2>Lecture 4: FOSS History</h2>
