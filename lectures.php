@@ -91,8 +91,6 @@ This lecture looks at the diverse motivations of FOSS developers.<p>
 <ul><li><a
 href="lectures/foss_motivation.pdf">foss_motivation.pdf</a></ul>
 
-<!--
-
 <h2>Lecture 10: Case study: Samba</h2>
 
 This lecture looks at the Samba project in some detail, as a case
@@ -115,6 +113,9 @@ This lecture delves into the world of FOSS culture.<p>
 
 <ul><li><a
 href="lectures/foss_culture.pdf">foss_culture.pdf</a></ul>
+
+<!--
+
 
 <h2>Lecture 13: Starting a new project</h2>
 
