@@ -119,7 +119,7 @@ This lecture looks at the wide range of FOSS distributions and
 platforms that they run on.<p>
 
 <ul><li><a
-href="lectures/foss_distributions.pdf">foss_distributions.pdf</a></ul>
+href="lectures/distros_devices.pdf">distros_devices.pdf</a></ul>
 
 <h2>Lecture 12: FOSS Culture</h2>
 
