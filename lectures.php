@@ -52,7 +52,7 @@ management tool for FOSS projects.</p>
 
 <ul>
 <li><a href="lectures/source_code_management.pdf">source_code_management.pdf</a></li>
-<li><a href="videos/MOV008.ogv">video</a> ( Ogg/Theora)</li>
+<li><a href="videos/MOV008.ogv">video</a> (493M Ogg/Theora)</li>
 </ul>
 
 <h2>Lecture 4: FOSS History</h2>
@@ -62,6 +62,7 @@ key developments that have led to the FOSS world of today.</p>
 
 <ul>
 <li><a href="lectures/foss_history.pdf">foss_history.pdf</a></li>
+<li><a href="videos/MOV009.ogv">video</a> (231M Ogg/Theora)</li>
 </ul>
 
 <h2>Lecture 5: Inside FOSS Licensing</h2>
@@ -71,6 +72,7 @@ FOSS development.</p>
 
 <ul>
 <li><a href="lectures/foss_licenses.pdf">foss_licenses.pdf</a></li>
+<li><a href="videos/MOV00A.low.ogv">LQ video</a> (128M Ogg/Theora)</li>
 </ul>
 
 <h2>Lecture 6: FOSS and the law</h2>
@@ -79,6 +81,7 @@ FOSS development.</p>
 
 <ul>
 <li><a href="lectures/foss_law.pdf">foss_law.pdf</a></li>
+<li><a href="videos/MOV00B.low.ogv">LQ video</a> (170M Ogg/Theora)</li>
 </ul>
 
 <h2>Lecture 7: FOSS Governance</h2>
@@ -87,6 +90,7 @@ FOSS development.</p>
 
 <ul>
 <li><a href="lectures/project_governance.pdf">project_governance.pdf</a></li>
+<li><a href="videos/MOV00C.low.ogv">LQ video</a> (84M Ogg/Theora)</li>
 </ul>
 
 <h2>Lecture 8: FOSS and Business</h2>
