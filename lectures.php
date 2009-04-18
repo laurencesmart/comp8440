@@ -99,6 +99,7 @@ FOSS development.</p>
 
 <ul>
 <li><a href="lectures/foss_business.pdf">foss_business.pdf</a></li>
+<li><a href="videos/MOV00D.low.ogv">LQ video</a> (128M Ogg/Theora)</li>
 </ul>
 
 <h2>Lecture 9: What motivates a FOSS developer?</h2>
@@ -107,57 +108,66 @@ FOSS development.</p>
 
 <ul>
 <li><a href="lectures/foss_motivation.pdf">foss_motivation.pdf</a></li>
+<li><a href="videos/MOV00E.low.ogv">LQ video</a> (128M Ogg/Theora)</li>
 </ul>
 
 <h2>Lecture 10: Case study: Samba</h2>
 
-This lecture looks at the Samba project in some detail, as a case
-study of a FOSS project.<p>
+<p>This lecture looks at the Samba project in some detail, as a case
+study of a FOSS project.</p>
 
-<ul><li><a
-href="lectures/case_study_samba.pdf">case_study_samba.pdf</a></ul>
+<ul>
+<li><a href="lectures/case_study_samba.pdf">case_study_samba.pdf</a></li>
+<li><a href="videos/MOV00F.low.ogv">LQ video</a> (136M Ogg/Theora)</li>
+</ul>
 
 <h2>Lecture 11: FOSS Distributions and Platforms</h2>
 
-This lecture looks at the wide range of FOSS distributions and
-platforms that they run on.<p>
+<p>This lecture looks at the wide range of FOSS distributions and
+platforms that they run on.</p>
 
-<ul><li><a
-href="lectures/distros_devices.pdf">distros_devices.pdf</a></ul>
+<ul>
+<li><a href="lectures/distros_devices.pdf">distros_devices.pdf</a></li>
+<li><a href="videos/MOV010.low.ogv">LQ video</a> (125M Ogg/Theora)</li>
+</ul>
 
 <h2>Lecture 12: FOSS Culture</h2>
 
-This lecture delves into the world of FOSS culture.<p>
+<p>This lecture delves into the world of FOSS culture.</p>
 
-<ul><li><a
-href="lectures/foss_culture.pdf">foss_culture.pdf</a></ul>
-
-<!--
+<ul>
+<li><a href="lectures/foss_culture.pdf">foss_culture.pdf</a></li>
+<li><a href="videos/MOV011.low.ogv">LQ video</a> (100M Ogg/Theora)</li>
+</ul>
 
 
 <h2>Lecture 13: Starting a new project</h2>
 
-This lecture looks at what is involved in staring a new FOSS project.<p>
+<p>This lecture looks at what is involved in staring a new FOSS project.</p>
 
-<ul><li><a
-href="lectures/starting_a_project.pdf">starting_a_project.pdf</a></ul>
+<ul>
+<li><a href="lectures/starting_a_project.pdf">starting_a_project.pdf</a></li>
+<li><a href="videos/MOV012.low.ogv">LQ video</a> (89M Ogg/Theora)</li>
+</ul>
 
 <h2>Lecture 14: FOSS Tales</h2>
 
-This lecture examines some key events of the past few years that have
-shaped the FOSS world.<p>
+<p>This lecture examines some key events of the past few years that have
+shaped the FOSS world.</p>
 
-<ul><li><a
-href="lectures/foss_tales.pdf">foss_tales.pdf</a></ul>
+<ul>
+<li><a href="lectures/foss_tales.pdf">foss_tales.pdf</a></li>
+<li><a href="videos/MOV01A.low.ogv">LQ video</a> (113M Ogg/Theora)</li>
+</ul>
 
 <h2>Lecture 15: Release early, Release often</h2>
 
-This lecture sums up the weeks material.<p>
+<p>This lecture sums up the weeks material.</p>
 
-<ul><li><a
-href="lectures/release_early_tales.pdf">release_early.pdf</a></ul>
-
--->
+<ul>
+<li><a href="lectures/release_early_tales.pdf">release_early.pdf</a></li>
+<li><a href="videos/MOV01B.low.ogv">LQ video</a> (37M Ogg/Theora)</li>
+</ul>
 
 <hr>
 
