@@ -128,9 +128,6 @@ This lecture delves into the world of FOSS culture.<p>
 <ul><li><a
 href="lectures/foss_culture.pdf">foss_culture.pdf</a></ul>
 
-<!--
-
-
 <h2>Lecture 13: Starting a new project</h2>
 
 This lecture looks at what is involved in staring a new FOSS project.<p>
@@ -153,7 +150,6 @@ This lecture sums up the weeks material.<p>
 <ul><li><a
 href="lectures/release_early_tales.pdf">release_early.pdf</a></ul>
 
--->
 
 <hr>
 
