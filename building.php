@@ -181,7 +181,7 @@ install all the build dependencies for an already packaged project. For
 example, on Ubuntu/Debian systems, you can run this:
 
 <pre><b>
-  apt-get build-dep PACKAGE
+  sudo apt-get build-dep PACKAGE
 </b></pre>
 
 That is a very easy way to get the build dependencies installed. Be
