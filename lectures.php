@@ -20,6 +20,7 @@ some reading tasks and project tasks.</p>
 
 <ul>
 <li><a href="lectures/course_introduction.pdf">course_introduction.pdf</a></li>
+<li><a href="lectures/course_introduction.odp">course_introduction.odp</a></li>
 </ul>
 
 
@@ -30,6 +31,7 @@ first lab material.</p>
 
 <ul>
 <li><a href="lectures/introduction_to_foss.pdf">introduction_to_foss.pdf</a></li>
+<li><a href="lectures/introduction_to_foss.odp">introduction_to_foss.odp</a></li>
 <li><a href="videos/MOV002.ogv">video (pt 1)</a> (561M Ogg/Theora)</li>
 <li><a href="videos/MOV003.ogv">video (pt 2)</a> (172M Ogg/Theora)</li>
 </ul>
@@ -42,6 +44,7 @@ know enough to start contributing.</p>
 
 <ul>
 <li><a href="lectures/getting_started.pdf">getting_started.pdf</a></li>
+<li><a href="lectures/getting_started.odp">getting_started.odp</a></li>
 <li><a href="videos/MOV007.ogv">video</a> (374M Ogg/Theora)</li>
 </ul>
 
@@ -52,6 +55,7 @@ management tool for FOSS projects.</p>
 
 <ul>
 <li><a href="lectures/source_code_management.pdf">source_code_management.pdf</a></li>
+<li><a href="lectures/source_code_management.odp">source_code_management.odp</a></li>
 <li><a href="videos/MOV008.ogv">video</a> (493M Ogg/Theora)</li>
 </ul>
 
@@ -62,6 +66,7 @@ key developments that have led to the FOSS world of today.</p>
 
 <ul>
 <li><a href="lectures/foss_history.pdf">foss_history.pdf</a></li>
+<li><a href="lectures/foss_history.odp">foss_history.odp</a></li>
 <li><a href="videos/MOV009.ogv">video</a> (231M Ogg/Theora)</li>
 </ul>
 
@@ -72,6 +77,7 @@ FOSS development.</p>
 
 <ul>
 <li><a href="lectures/foss_licenses.pdf">foss_licenses.pdf</a></li>
+<li><a href="lectures/foss_licenses.odp">foss_licenses.odp</a></li>
 <li><a href="videos/MOV00A.low.ogv">LQ video</a> (128M Ogg/Theora)</li>
 </ul>
 
@@ -81,6 +87,7 @@ FOSS development.</p>
 
 <ul>
 <li><a href="lectures/foss_law.pdf">foss_law.pdf</a></li>
+<li><a href="lectures/foss_law.odp">foss_law.odp</a></li>
 <li><a href="videos/MOV00B.low.ogv">LQ video</a> (170M Ogg/Theora)</li>
 </ul>
 
@@ -90,6 +97,7 @@ FOSS development.</p>
 
 <ul>
 <li><a href="lectures/project_governance.pdf">project_governance.pdf</a></li>
+<li><a href="lectures/project_governance.odp">project_governance.odp</a></li>
 <li><a href="videos/MOV00C.low.ogv">LQ video</a> (84M Ogg/Theora)</li>
 </ul>
 
@@ -99,6 +107,7 @@ FOSS development.</p>
 
 <ul>
 <li><a href="lectures/foss_business.pdf">foss_business.pdf</a></li>
+<li><a href="lectures/foss_business.odp">foss_business.odp</a></li>
 <li><a href="videos/MOV00D.low.ogv">LQ video</a> (128M Ogg/Theora)</li>
 </ul>
 
@@ -108,6 +117,7 @@ FOSS development.</p>
 
 <ul>
 <li><a href="lectures/foss_motivation.pdf">foss_motivation.pdf</a></li>
+<li><a href="lectures/foss_motivation.odp">foss_motivation.odp</a></li>
 <li><a href="videos/MOV00E.low.ogv">LQ video</a> (128M Ogg/Theora)</li>
 </ul>
 
@@ -118,6 +128,7 @@ study of a FOSS project.</p>
 
 <ul>
 <li><a href="lectures/case_study_samba.pdf">case_study_samba.pdf</a></li>
+<li><a href="lectures/case_study_samba.odp">case_study_samba.odp</a></li>
 <li><a href="videos/MOV00F.low.ogv">LQ video</a> (136M Ogg/Theora)</li>
 </ul>
 
@@ -128,6 +139,7 @@ platforms that they run on.</p>
 
 <ul>
 <li><a href="lectures/distros_devices.pdf">distros_devices.pdf</a></li>
+<li><a href="lectures/distros_devices.odp">distros_devices.odp</a></li>
 <li><a href="videos/MOV010.low.ogv">LQ video</a> (125M Ogg/Theora)</li>
 </ul>
 
@@ -137,6 +149,7 @@ platforms that they run on.</p>
 
 <ul>
 <li><a href="lectures/foss_culture.pdf">foss_culture.pdf</a></li>
+<li><a href="lectures/foss_culture.odp">foss_culture.odp</a></li>
 <li><a href="videos/MOV011.low.ogv">LQ video</a> (100M Ogg/Theora)</li>
 </ul>
 
@@ -146,6 +159,7 @@ platforms that they run on.</p>
 
 <ul>
 <li><a href="lectures/starting_a_project.pdf">starting_a_project.pdf</a></li>
+<li><a href="lectures/starting_a_project.odp">starting_a_project.odp</a></li>
 <li><a href="videos/MOV012.low.ogv">LQ video</a> (89M Ogg/Theora)</li>
 </ul>
 
@@ -156,6 +170,7 @@ shaped the FOSS world.</p>
 
 <ul>
 <li><a href="lectures/foss_tales.pdf">foss_tales.pdf</a></li>
+<li><a href="lectures/foss_tales.odp">foss_tales.odp</a></li>
 <li><a href="videos/MOV01A.low.ogv">LQ video</a> (113M Ogg/Theora)</li>
 </ul>
 
@@ -165,6 +180,7 @@ shaped the FOSS world.</p>
 
 <ul>
 <li><a href="lectures/release_early.pdf">release_early.pdf</a></li>
+<li><a href="lectures/release_early.odp">release_early.odp</a></li>
 <li><a href="videos/MOV01B.low.ogv">LQ video</a> (37M Ogg/Theora)</li>
 </ul>
 
