@@ -30,6 +30,10 @@ the 22nd of May deadline. You should send them in PDF or ODP
 (OpenOffice.org) format to <a
 href="mailto:comp8440@cs.anu.edu.au">comp8440@cs.anu.edu.au</a>
 
+<p>You can also review any of the lecture notes or videos of the
+lectures on the <a href="lectures.php">lectures page</a>. Your
+submitted assignments should demonstrate your knowledge of the course
+material, so reviewing the course material is strongly recommended.
 
 <p>
 <h2>General Information</h2>
