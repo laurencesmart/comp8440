@@ -19,6 +19,17 @@ Course staff:
 <p>
 
 
+<h2>2009 Intensive course completed</h2>
+
+The intensive part of the 2009 course is now complete. Congratulations
+to all the students on their presentations!
+
+<p>Please remember to get your main <a
+href="assessment.php">assessments</a> submitted in plenty of time for
+the 22nd of May deadline. You should send them in PDF or ODP
+(OpenOffice.org) format to <a
+href="mailto:comp8440@cs.anu.edu.au">comp8440@cs.anu.edu.au</a>
+
 
 <p>
 <h2>General Information</h2>
@@ -56,7 +67,7 @@ of tutorial/lab hours. The course will have a very practical focus.
 	Discussion forum</a> which will be (semi-) regularly 
 	monitored by the course staff.
 <p>
-<li>A preliminary <a href="schedule.php">timetable</a> is available
+<li>A <a href="schedule.php">timetable</a> is available
 <p>
 
 <li>Refreshments will be provided during the course
