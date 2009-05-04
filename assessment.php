@@ -125,6 +125,48 @@ working on a university project. Including a link to the <a
 href="http://cs.anu.edu.au/students/comp8440/">COMP8440 web site</a>
 in your first contact with a project member is a good way to do this.
 
+<h1>Assessment FAQ</h1>
+
+A number of students have asked me some questions later about the assessment.
+In case anyone else has similar questions, here are the answers in FAQ format.
+
+<p>Q: Are two separate reports required for the assessment?
+
+<p>A: Yes, one report is the project study, and the other report is on your
+project work
+
+
+<p>Q: What is the difference between the two reports?
+
+<p>A: The 'project study' report is a study of a particular FOSS project
+from the point of view of the material we covered during the lectures.
+This study is not about what you have contributed to the project, it
+is about the project itself, and should cover things like the history
+of the project, the culture of the project, how the project interacts
+with other projects, the legal and licensing framework for the project,
+how the project is funded, how decisions are made, how the project is
+governed, what motivates the developers working on the project etc. You
+should try to use the report to demonstrate your understanding of the
+lecture material.
+
+<p>The other report, called the "project work" report, is about what you
+yourself have contributed to the project. It should document all of
+your interactions with your chosen project, and should aim to demonstrate
+that you understand how to effectively communicate and contribute to a
+FOSS project.
+
+
+<p>Q: Can the two reports be on different FOSS projects?
+
+<p>A: Yes, that is entirely up to you
+
+
+<p>Q: Can the 'project study' report be on something other than a specific
+project, but instead be on a topic that is important for the FOSS
+world?
+
+<p>A: Yes, but please contact Bob or myself for approval of a project study
+that is not on a specific FOSS project.
 
 
 <p><div align="center">
