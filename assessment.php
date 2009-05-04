@@ -168,6 +168,13 @@ world?
 <p>A: Yes, but please contact Bob or myself for approval of a project study
 that is not on a specific FOSS project.
 
+<p>Q: I submitted a bug report for my project, and now the bug has
+been fixed.  Should I include that in my project work report?
+
+<p>A: yes! The process demonstrates that you are working well with the
+development community for your project. You should include your patch
+submission, any discussion of the patch and the result of the
+submission in your report.
 
 <p><div align="center">
   <?php
