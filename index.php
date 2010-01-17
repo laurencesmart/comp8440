@@ -8,7 +8,7 @@ include "8440head.php";
 <h1>
 <font color="#931515" size="+3">COMP8440: <br>
 Free and Open Source Software Development
-<br></font><font size="+2">Autumn 2009</font></h1>
+<br></font><font size="+2">Autumn 2010</font></h1>
 Course staff:
 <A href="http://samba.org/tridge">Dr Andrew Tridgell</A> and <A href="http://cs.anu.edu.au/people.php?StaffID=8909374">Bob Edwards</A><br>
 </center>
@@ -19,21 +19,14 @@ Course staff:
 <p>
 
 
-<h2>2009 Intensive course completed</h2>
+<h2>2010 course dates</h2>
 
-The intensive part of the 2009 course is now complete. Congratulations
-to all the students on their presentations!
+<p>The 2010 COMP8440 course will run from Tuesday 6th April to
+Saturday 10th April. We will update this site with more information
+closer to the date of the course.
 
-<p>Please remember to get your main <a
-href="assessment.php">assessments</a> submitted in plenty of time for
-the 22nd of May deadline. You should send them in PDF or ODP
-(OpenOffice.org) format to <a
-href="mailto:comp8440@cs.anu.edu.au">comp8440@cs.anu.edu.au</a>
-
-<p>You can also review any of the lecture notes or videos of the
-lectures on the <a href="lectures.php">lectures page</a>. Your
-submitted assignments should demonstrate your knowledge of the course
-material, so reviewing the course material is strongly recommended.
+<p>You can also review any of the lecture notes or videos of the 2009
+lectures on the <a href="lectures.php">lectures page</a>. 
 
 <p>
 <h2>General Information</h2>
@@ -71,7 +64,9 @@ of tutorial/lab hours. The course will have a very practical focus.
 	Discussion forum</a> which will be (semi-) regularly 
 	monitored by the course staff.
 <p>
-<li>A <a href="schedule.php">timetable</a> is available
+<li>The <a href="schedule.php">2009 timetable</a> is available. The
+  2010 timetable will be similar, but with the main course centered
+  around the 6th April to 10th April.
 <p>
 
 <li>Refreshments will be provided during the course
