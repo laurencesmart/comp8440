@@ -12,7 +12,10 @@ include "8440head.php";
 
 <h2>Background</h2>
 
-<p>The course will utilise the new (in 2009) N115/N116 combined 40 place lab in the CSIT building. This lab has 40 machines each with 3.0GHz Pentium D CPUs, 2GB RAM, a 160GB hard disk and a 17" LCD monitor. The machines are networked onto a single VLAN with 100MBps ethernet.</p>
+<p>The course will utilise the N115/N116 combined 40 place lab in the
+CSIT building. This lab has 40 machines each with 3.0GHz Pentium D
+CPUs, 2GB RAM, a 160GB hard disk and a 17" LCD monitor. The machines
+are networked onto a single VLAN with 100MBps ethernet.</p>
 
 <p>The machines in the lab are normally used by CS courses with a
 software image based on Ubuntu Karmic (9.10) Linux (from October,

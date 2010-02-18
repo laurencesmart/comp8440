@@ -19,6 +19,10 @@ Course assessment will be divided into 3 parts
 <li>Project study - 40%</li>
 </ul>
 
+<p>Students will have an opportunity to discuss the assessment options
+during the information evening.
+
+
 <h1>Short presentation</h1>
 
 On Saturday the 18th of April each student will make a short
