@@ -16,7 +16,7 @@ you to a wider range of common FOSS project ideas.
 
 <p>In this lab you will also need to create a patch against your
 chosen project, and submit that patch to the <a
-href="mailto:comp8440@dubhe.anu.edu.au">comp8440@dubhe.anu.edu.au</a>
+href="mailto:comp8440@fossd.anu.edu.au">comp8440@fossd.anu.edu.au</a>
 mailing list. Then you should look for another students patch
 submission for the same project apply their patch, and send back a
 reply to them commenting on their patch.

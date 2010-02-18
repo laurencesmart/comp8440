@@ -23,6 +23,7 @@ some reading tasks and project tasks.</p>
 <li><a href="lectures/course_introduction.odp">course_introduction.odp</a></li>
 </ul>
 
+Note that the links to the videos in this page are to the 2009 lectures. The 2010 course will have some updated lecture material, but the general structure of the course will remain the same.
 
 <h2>Lecture 1: Introduction to FOSS</h2>
 

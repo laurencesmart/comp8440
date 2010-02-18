@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-  <title>COMP8440 - ANU - College of Engineering and Computer Science - DCS</title>
+  <title>COMP8440 - ANU - College of Engineering and Computer Science</title>
   <link rel="shortcut icon" href="http://cs.anu.edu.au/_images/anu.ico" TYPE="image/x-icon">
   <link href="http://styles.anu.edu.au/anu_global_styles.css" rel="stylesheet" type="text/css">
 <!-- BEGIN DOCUMENT META DATA -->
@@ -54,7 +54,7 @@
                         margin-top: 8px;
                         margin-bottom: 0px;
                         text-align: right;">
-                 Department of Computer Science            </div>
+                 School of Computer Science            </div>
                     </td>
     </tr>
     <tr>
@@ -275,7 +275,7 @@ href="help.php">Getting Help</a></td>
 				</tr>
 				<tr>
     				<td class="menuItem" width="8" valign="top" align="right" nowrap><a href="http://feit.anu.edu.au/Search.php"><img src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16" height="10" border="0" alt=""></a></td> 
-    				<td class="menuItem" width="100%"><a class="lftNav" href="http://cs.anu.edu.au/">DCS Home</a></td>
+    				<td class="menuItem" width="100%"><a class="lftNav" href="http://cs.anu.edu.au/">CS Home</a></td>
 				</tr>
 <tr>
     				<td class="menuItem" width="8" valign="top" align="right" nowrap><a href="http://feit.anu.edu.au/Search.php"><img src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16" height="10" border="0" alt=""></a></td> 

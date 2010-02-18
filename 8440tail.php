@@ -37,7 +37,7 @@
             href="mailto:comp8440@cs.anu.edu.au">comp8440@cs.anu.edu.au</a>
 <br>
 
-Page authorised by: Head of Department, DCS<!-- <b>Offical Development Page</b> -->
+Page authorised by: Head of School, CS<!-- <b>Offical Development Page</b> -->
         </td>
     </tr>
     <tr>

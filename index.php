@@ -22,8 +22,7 @@ Course staff:
 <h2>2010 course dates</h2>
 
 <p>The 2010 COMP8440 course will run from Tuesday 6th April to
-Saturday 10th April. We will update this site with more information
-closer to the date of the course.
+Saturday 10th April. Please see the <a href="schedule.php">schedule page</a> for more details.
 
 <p>You can also review any of the lecture notes or videos of the 2009
 lectures on the <a href="lectures.php">lectures page</a>. 
@@ -64,9 +63,7 @@ of tutorial/lab hours. The course will have a very practical focus.
 	Discussion forum</a> which will be (semi-) regularly 
 	monitored by the course staff.
 <p>
-<li>The <a href="schedule.php">2009 timetable</a> is available. The
-  2010 timetable will be similar, but with the main course centered
-  around the 6th April to 10th April.
+<li>The <a href="schedule.php">2010 timetable</a> is now available. 
 <p>
 
 <li>Refreshments will be provided during the course

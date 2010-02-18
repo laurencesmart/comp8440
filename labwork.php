@@ -15,7 +15,7 @@ intensive part of the course over half the time will be spent in the
 lab, and the majority of the <a href="assessment.php">course
 assessment</a> is based on the lab work.<p>
 
-The lab work will be run on the Ubuntu Linux systems in the DCS
+The lab work will be run on the Ubuntu Linux systems in the CS
 labs. During the intensive part of the course each student will use
 the same lab machine each day, allowing the machine to be customised
 to suit the project being worked on (for example, by installing extra
@@ -54,7 +54,7 @@ project which has only just started.
 <li>The project should be welcoming to new contributors. You may be
 able to judge this by looking at the projects mailing list archives.
 <li>The project should have several active contributors
-<li>The project should be usable on the Ubuntu systems in the DCS lab
+<li>The project should be usable on the Ubuntu systems in the CSIT Linux labs
 </ul>
 
 Of course, the project should also be something that you find

@@ -45,7 +45,7 @@ page. Note that the fees are different for domestic and international students.
 
 <p>
 For all programs except the Masters of Computing, students must obtain
-a permission code from the Department of Computer Science
+a permission code from the School of Computer Science
 office. Requests for a permission code should be emailed
 to <a href="mailto:office@cs.anu.edu.au">office@cs.anu.edu.au</a>. You
 should include details of any experience or expertise that may be
@@ -90,7 +90,7 @@ to the address listed on the form.
 
 <p>
 The COMP8440 course may alternatively be taken as a non-accredited
-course. This is a cheaper option (the course fee for 2009 is $1750)
+course. This is a cheaper option (the course fee for 2010 is $1750)
 and involves no assessment. A certificate of completion will be
 awarded. The university will not provide any grading of students
 performance in the course.
@@ -104,14 +104,7 @@ performance in the course.
 <input name="ATTENDEE" type="hidden" value="">
 
 <p>
-An online form for applying as a non-accredited student is available here:
-<input type="submit" value="  Register Now  ">
-</p>
-
-<p>
-Please have your credit card details available. If you have any enquiries
-about registering as a non-accredited student, please contact us at:
-<a href="comp8440@cs.anu.edu.au">comp8440@cs.anu.edu.au</a>.
+  An online form for applying as a non-accredited student will be available soon. In the meantime, please email <a href="mailto:comp8440@cs.anu.edu.au">comp8440@cs.anu.edu.au</a> if you are interested in participating as a non-accredited student.
 </p>
 
 </form>

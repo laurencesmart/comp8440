@@ -6,7 +6,7 @@ include "8440head.php";
 
 <center>
 <h1>
-<font color="#931515" size="+3">COMP8440: Lab Setup (2009)</font>
+<font color="#931515" size="+3">COMP8440: Lab Setup (2010)</font>
 </h1>
 </center>
 
@@ -14,17 +14,32 @@ include "8440head.php";
 
 <p>The course will utilise the new (in 2009) N115/N116 combined 40 place lab in the CSIT building. This lab has 40 machines each with 3.0GHz Pentium D CPUs, 2GB RAM, a 160GB hard disk and a 17" LCD monitor. The machines are networked onto a single VLAN with 100MBps ethernet.</p>
 
-<p>The machines in the lab are normally used by CS courses with a software image based on Ubuntu Hardy (8.04) Linux (from April, 2008). The machines are set to "network boot" and obtain their software image from a lab server. This image is not suitable for use by this course as it does not allow students to add their own packages, nor to gain superuser access in normal use.</p>
+<p>The machines in the lab are normally used by CS courses with a
+software image based on Ubuntu Karmic (9.10) Linux (from October,
+2009). The machines are set to"network boot" and obtain their software
+image from a lab server. This image is not suitable for use by this
+course as it does not allow students to add their own packages, nor to
+gain superuser access in normal use.</p>
 
-<p>The challenge has been to provide a lab environment where students can "own" the software installation on "their" machine in the lab, to be able to save that image to the course server and to be able to quickly restore it to another machine in the event of a hardware failure. We also need to be able to get the machines running with their normal image in a timely fashion as other classes will need to use the machines after the intensive part of our course is complete.</p>
+<p>The challenge has been to provide a lab environment where students
+can "own" the software installation on "their" machine in the lab, to
+be able to save that image to the course server and to be able to
+quickly restore it to another machine in the event of a hardware
+failure. We also need to be able to get the machines running with
+their normal image in a timely fashion as other classes will need to
+use the machines after the intensive part of our course is
+complete.</p>
 
 <p>To solve this requirement, we have set up an additional disk partition on each of the lab machines and set up additional network boot options to allow an encrypted filesystem on this partition to be the main (root) filesystem whilst the machines are being used by this course. The encrypted filesystem should prevent other lab users from accidentally or deliberately interfering with each FOSSD students setup.</p>
 
-<p>To speed up the installation for the first lab, we have pre-installed Ubuntu Intrepid, released in October, 2008, hence with release number 8.10. It is anticipated that Ubuntu will release their next stable release sometime during the week of the intensive part of the course. This release will be Jaunty with release number 9.04 (for April, 2009).</p>
+<p>To speed up the installation for the first lab, we have pre-installed Ubuntu Karmic, released in October, 2009, hence with release number 9.10. It is anticipated that Ubuntu will release their next stable release sometime during the week of the intensive part of the course.</p>
 
 <h2>Initial Setup</h2>
 
-<p>Each machine in the N115/N116 lab has already had its disk repartitioned to include the new 85GB partition as /dev/sda8 and an initial copy of the "master" image for FOSSD 2009, based on the Ubuntu Intrepid (8.10) Linux distribution.</p>
+<p>Each machine in the N115/N116 lab has already had its disk
+  repartitioned to include the new 85GB partition as /dev/sda8 and an
+  initial copy of the "master" image for FOSSD 2010, based on the
+  Ubuntu Karmic Koala (9.10) Linux distribution.</p>
 
 <p>For the first (initial) setup, you will need to log into the machine whilst it is booted in the normal lab environment.</p>
 
@@ -50,11 +65,11 @@ that you are least likely to disturb another students machine</p>
 <li>There is a "Pidgin" Internet Relay Chat/Messenger icon to start "pidgin"</li>
 <li>Firefox has some useful plugins added: Add Block Plus (ABP); Zotero and Scrapbook</li>
 <li>Firefox hompage is set to our COMP8440 course page</li>
-<li>under "Places" there is a link to your files on the "dubhe" FOSSD course server</li>
+<li>under "Places" there is a link to your files on the "fossd" FOSSD course server</li>
 </ul>
 
 <h2>FOSSD Lab Server</h2>
-<p>A dedicated file server has been set up for the FOSSD course for 2009. This server has the DNS name "dubhe.anu.edu.au" and is accessible from most anywhere on the Internet. You can log into this server from anywhere using Secure SHell (ssh), your standard ANU UniID and associated password. Please do not run large (CPU-intensive) jobs on this machine as it will be used heavily during the course for backups etc.</p>
+<p>A dedicated file server has been set up for the FOSSD course for 2010. This server has the DNS name "fossd.anu.edu.au" and is accessible from most anywhere on the Internet. You can log into this server from anywhere using Secure SHell (ssh), your standard ANU UniID and associated password. Please do not run large (CPU-intensive) jobs on this machine as it will be used heavily during the course for backups etc.</p>
 
 <p>Also, although this server has more or less unrestricted access to the Internet, please do not use this to run peer-to-peer applications (unless that is a part of your chosen Open Source project) or in any other way abuse access to this machine and it's Internet connection.</p>
 
