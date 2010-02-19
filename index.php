@@ -55,11 +55,11 @@ of tutorial/lab hours. The course will have a very practical focus.
 
 <p>
 <li>News will be posted on the course
-	 <a href="https://cs.anu.edu.au/streams/forum.php?ForumID=232">
+	 <a href="https://cs.anu.edu.au/streams/forum.php?ForumID=317">
 	 Announcement forum</a> (staff post only). 
 <p>
 <li>There is also a
-	<a href="https://cs.anu.edu.au/streams/forum.php?ForumID=235">
+	<a href="https://cs.anu.edu.au/streams/forum.php?ForumID=318">
 	Discussion forum</a> which will be (semi-) regularly 
 	monitored by the course staff.
 <p>
