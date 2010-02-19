@@ -25,7 +25,7 @@ during the information evening.
 
 <h1>Short presentation</h1>
 
-On Saturday the 18th of April each student will make a short
+On Saturday the 10th of April each student will make a short
 presentation on their chosen FOSS project. That presentation should
 provide basic information on the project and its structure, and
 present the work that you have done during the lab times over the
