@@ -52,7 +52,7 @@ complete.</p>
 
 <p>Then you will be prompted for a passphrase for the encrypted filesystem, twice. You can press the "Enter" key each time to use the default FOSSD passphrase for the encrypted filesystem (written up on the whiteboard in the lab), or you can make up a new passphrase - but don't forget it!</p>
 
-<p>Then you may be prompted for your login password one last time before the system initialises the partition with the Ubuntu Intrepid image we have prepared. As a part of this initialisation, an account will be created for you in this image.</p>
+<p>Then you may be prompted for your login password one last time before the system initialises the partition with the Ubuntu Karmic image we have prepared. As a part of this initialisation, an account will be created for you in this image.</p>
 
 <p>When that is complete, you can reboot your machine and then select "fossd" from the network boot prompt which will boot into the encrypted filesystem. You will be prompted for the passphrase you have chosen for the encrypted filesystem. It is <b>very</b> important that you do not forget this passphrase!</p>
 
@@ -60,7 +60,7 @@ complete.</p>
 that you are least likely to disturb another students machine</p>
 
 <h2>FOSSD Lab Environment</h2>
-<p>The "standard environment" that we have prepared for each FOSSD lab machine includes the standard Ubuntu Intrepid "Gnome" desktop environment with a couple of customisations:</p>
+<p>The "standard environment" that we have prepared for each FOSSD lab machine includes the standard Ubuntu Karmic "Gnome" desktop environment with a couple of customisations:</p>
 <ul>
 <li>There is a "Terminal" icon in the task bar so that you can quickly get a shell (commandline) prompt</li>
 <li>We have installed a number of packages including most of the common version control systems</li>
@@ -77,7 +77,7 @@ that you are least likely to disturb another students machine</p>
 <p>Also, although this server has more or less unrestricted access to the Internet, please do not use this to run peer-to-peer applications (unless that is a part of your chosen Open Source project) or in any other way abuse access to this machine and it's Internet connection.</p>
 
 <h2>Backing up your work</h2>
-<p>As a part of the Ubuntu Intrepid software image we have prepared for you, there is an icon on the desktop "Backup System". Double clicking on that icon will backup your entire system image (including any new packages you have installed and your home directory). You may be prompted for your password on the FOSSD lab server.</p>
+<p>As a part of the Ubuntu Karmic software image we have prepared for you, there is an icon on the desktop "Backup System". Double clicking on that icon will backup your entire system image (including any new packages you have installed and your home directory). You may be prompted for your password on the FOSSD lab server.</p>
 
 <h2>Restoring your environment</h2>
 
