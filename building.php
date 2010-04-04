@@ -10,6 +10,23 @@ include "8440head.php";
 </h1>
 </center>
 
+<h1>What is a package?</h1>
+
+<p>A 'package' contains a set of binaries for a particular program. On
+the Ubuntu systems used in the COMP8440 lab, these packages normally
+have a filename ending in '.deb'.</p>
+
+<p>Normal users of Ubuntu systems would usually install packages using
+  the 'package manager' of the system. That can either be done on the
+  command line using the 'apt-get install' command, or via the
+  graphical package manager under the System->Administration menu on
+  your desktop.</p>
+
+<p>In this course you are learning how to participate in FOSS
+  development, so you will be learning how to build your own packages
+  from the source code.</p>
+
+
 <h1>Building a package</h1>
 
 Building a FOSS project can be tricky. You need to work out where
@@ -67,14 +84,29 @@ cosmetic, or may fix bugs that are not yet fixed in the official
 release<p>
 
 The unpacked source is what you will need to actually build the
-package yourself. On Debian/Ubuntu systems this source package should
-contain a directory called 'debian' which contains a 'rules' file that
-can be used to build the package. If you cd to the unpacked directory,
-you should be able to build the package using:
+package yourself. On Debian/Ubuntu systems this contains rules which
+tell the system how to build the package. To build the package, run
+the following command from within the source directory of the package:
 
 <pre><b>
-  debian/rules binary
+  dpkg-buildpackage
 </b></pre>
+
+That will build one or more '.deb' files in the directory above the
+source directory. You can install that deb file like this:
+
+<pre><b>
+  sudo dpkg -i FILENAME.deb
+</b></pre>
+
+After that you can use the commands in the package.
+
+When you no longer want the package, you should remove it using:
+
+<pre><b>
+  sudo apt-get remove PACKAGE
+</b></pre>
+
 
 <h3>Using a release tarball</h3>
 
@@ -102,6 +134,7 @@ many variants on how to build FOSS packages, but some common ones are:
 
 In each case, you will need to install any package dependencies. See
 the build dependencies section of this guide.
+
 
 <h3>Using the source code management system</h3>
 
@@ -152,11 +185,26 @@ package you want to build.<p>
 There are several ways to find and install the build dependencies:
 
 <ul>
+<li>Using your package manager
 <li>Look at the package documentation
 <li>Looking in the dsc file
-<li>Using your package manager
 <li>Trial and error
 </ul>
+
+<h3>Using your package manager</h3>
+
+Some package managers have a feature that allows you to automatically
+install all the build dependencies for an already packaged project. For
+example, on Ubuntu/Debian systems, you can run this:
+
+<pre><b>
+  sudo apt-get build-dep PACKAGE
+</b></pre>
+
+That is a very easy way to get the build dependencies installed. Be
+aware though that if you are trying to install a different version
+that what the distribution currently has packaged, you may find you
+need some additional packages.
 
 <h3>Looking at the package documentation</h3>
 
@@ -173,21 +221,6 @@ If you downloaded the package source using 'apt-get source' then the
 .dsc file should contain a Build-Depends line which lists the packages
 that this package depends on. That can be a very good starting point
 for what you need to install. 
-
-<h3>Using your package manager</h3>
-
-Some package managers have a feature that allows you to automatically
-install all the build dependencies for an already packaged project. For
-example, on Ubuntu/Debian systems, you can run this:
-
-<pre><b>
-  sudo apt-get build-dep PACKAGE
-</b></pre>
-
-That is a very easy way to get the build dependencies installed. Be
-aware though that if you are trying to install a different version
-that what the distribution currently has packaged, you may find you
-need some additional packages.
 
 <h3>Trial and error</h3>
 

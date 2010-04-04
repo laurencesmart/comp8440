@@ -12,19 +12,22 @@ include "8440head.php";
 
 <h2>Lab Setup</h2>
 
-As this is the first lab, you should read the <a
-href="labsetup.php">Lab Setup</a> page and follow the instructions on
-that page to get the FOSSD environment installed and running.
+As this is the first lab, you should carefully read
+the <a href="labsetup.php">Lab Setup</a> page and follow all the
+instructions on that page to get the FOSSD environment installed and
+running.
 
-<p>Next, you should join the <a
-href="http://fossd.anu.edu.au/cgi-bin/mailman/listinfo">comp8440
+<p>Next, if you have not already done so, you should join
+the <a href="http://fossd.anu.edu.au/cgi-bin/mailman/listinfo">comp8440
 mailing list</a> using your ANU student email account. Note that you
 will need to be able to receive email to that account while in the
 lab. You will find that the email icon in the main menu bar of your
-lab system should be already setup for accessing your ANU mail account<p>
+lab system should be already setup for accessing your ANU mail
+account.<p>
 
-<p>Once you have joined the list, send a very short email to the list
-to make sure it is working.
+<p>When you first join the list, please send a very short email to the
+list to make sure it is working.
+
 
 <h2>Investigating a2ps</h2>
 
@@ -70,8 +73,8 @@ the following mechanisms:
 <li>using a source code management system
 </ul>
 
-You should read the <a href="building.php">build tips</a> page for
-information on each of these approaches.<p>
+You should now carefully read the <a href="building.php">build
+tips</a> page for instructions on each of these approaches.<p>
 
 What are the advantages and disadvantages of each approach?
 
