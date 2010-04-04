@@ -213,10 +213,21 @@ example, on Ubuntu/Debian systems, you can run this:
   sudo apt-get build-dep PACKAGE
 </b></pre>
 
-That is a very easy way to get the build dependencies installed. Be
+<p>That is a very easy way to get the build dependencies installed. Be
 aware though that if you are trying to install a different version
 that what the distribution currently has packaged, you may find you
-need some additional packages.
+need some additional packages.</p>
+
+<p>Sometimes you may find you need newer packages than what is
+  currently in Ubuntu Karmic. We have setup the lab machines to allow
+  you to easily pull packages from the next Ubuntu system, Ubuntu
+  Lucid, when you need them. To pull in the build dependencies for
+  package PACKAGE from Lucid use:</p>
+
+<pre><b>
+  sudo apt-get -t lucid build-dep PACKAGE
+</b></pre>
+
 
 <h3>Looking at the package documentation</h3>
 
