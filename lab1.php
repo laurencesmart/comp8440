@@ -78,6 +78,18 @@ tips</a> page for instructions on each of these approaches.<p>
 
 What are the advantages and disadvantages of each approach?
 
+<h2>Testing a2ps</h2>
+
+As the name suggests, a2ps can take ASCII text files and produce
+postscript. Try creating a file called 'test.txt' then run this:
+
+<pre><b>
+   a2ps -o test.ps test.txt
+   gv test.ps  
+</b></pre>
+
+That should show you a postscript version of your text file.
+
 <h2>SCM Tips</h2>
 
 You may find some of the tips on the <a href="scm-tips.php">SCM
