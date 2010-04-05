@@ -85,7 +85,7 @@ postscript. Try creating a file called 'test.txt' then run this:
 
 <pre><b>
    a2ps -o test.ps test.txt
-   gv test.ps  
+   evince test.ps  
 </b></pre>
 
 That should show you a postscript version of your text file.
