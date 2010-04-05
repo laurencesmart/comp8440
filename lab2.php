@@ -27,7 +27,7 @@ reply to them commenting on their patch.
 <li>FreeCIV
 <li>gedit
 <li>Battle for Wesnoth
-<li>Stellarium
+<li>gimp
 <li>OpenOffice.org
 </ul>
 
@@ -45,6 +45,9 @@ building FOSS packages, then the easiest approach will be to use the
 package manager to download the sources. If you are more experienced,
 then you should try to build the project using the latest development
 version (downloaded using a source code management system).<p>
+
+Note: Please read the <a href="building.php">build tips</a> page
+carefully before you start!
 
 <h3>Helping other students</h3>
 
