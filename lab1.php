@@ -33,7 +33,7 @@ list to make sure it is working.
 
 The aim of this lab is to build and install the 'anything to
 postscript' a2ps project. The a2ps project has been chosen as it
-provides an illustration of the many of the types of problems you are
+provides an illustration of many of the types of problems you are
 likely to run into with your own project.<p>
 
 During this lab we will be spending quite a lot of time running
@@ -90,7 +90,7 @@ postscript. Try creating a file called 'test.txt' then run this:
 
 That should show you a postscript version of your text file.
 
-<h2>SCM Tips</h2>
+<h2>Source Code Management (SCM) Tips</h2>
 
 You may find some of the tips on the <a href="scm-tips.php">SCM
 Tips</a> page useful for this lab.
