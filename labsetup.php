@@ -23,7 +23,9 @@ desktop.
   Ubuntu Karmic Koala (9.10) Linux distribution.</p>
 
 <p>For the first (initial) setup, you will need to log into the
-machine whilst it is booted in the normal lab environment.</p>
+machine whilst it is booted in the normal (CSIT) lab environment. That
+is the default boot environment, which can also selected using the
+'net' option during bootup</p>
 
 <p>On your desktop you should see a icon "Setup FOSSD". Click that.</p>
 
