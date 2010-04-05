@@ -12,7 +12,8 @@ include "8440head.php";
 
 The COMP8440 course will use the lab machines in N115/N115. You will
 need to follow the instructions below to setup your own machine and to
-regularly backup the machine to the course server.
+regularly backup your machine using the "Backup System" link on your
+desktop.
 
 <h2>Initial Setup</h2>
 
