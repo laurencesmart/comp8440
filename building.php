@@ -138,15 +138,17 @@ the build dependencies section of this guide.</p>
 A typical set of commands to build a package would be:
 
 <pre></b>
+   ./autogen.sh
    ./configure --prefix=$HOME/prefix
    make
    make install
 </b></pre>
 
 That would put the build commands in $HOME/prefix/bin. The above
-recipe doesn't work for all packages, but it will work for a large
-number of them. Read the package documentation for the details of
-building the package you are working on.
+recipe doesn't work for all packages (for example, many don't have an
+autogen.sh script), but it will work for a large number of them. Read
+the package documentation for the details of building the package you
+are working on.
 
 <h3>Using the source code management system</h3>
 
