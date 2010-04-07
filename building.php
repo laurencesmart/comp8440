@@ -18,7 +18,7 @@ have a filename ending in '.deb'.</p>
 
 <p>Normal users of Ubuntu systems would usually install packages using
   the 'package manager' of the system. That can either be done on the
-  command line using the 'apt-get install' command, or via the
+  command line using the 'aptitude install' command, or via the
   graphical package manager under the System->Administration menu on
   your desktop.</p>
 
@@ -104,7 +104,7 @@ After that you can use the commands in the package.
 When you no longer want the package, you should remove it using:
 
 <pre><b>
-  sudo apt-get remove PACKAGE
+  sudo aptitude remove PACKAGE
 </b></pre>
 
 
@@ -212,24 +212,13 @@ install all the build dependencies for an already packaged project. For
 example, on Ubuntu/Debian systems, you can run this:
 
 <pre><b>
-  sudo apt-get build-dep PACKAGE
+  sudo aptitude build-dep PACKAGE
 </b></pre>
 
 <p>That is a very easy way to get the build dependencies installed. Be
 aware though that if you are trying to install a different version
 that what the distribution currently has packaged, you may find you
 need some additional packages.</p>
-
-<p>Sometimes you may find you need newer packages than what is
-  currently in Ubuntu Karmic. We have setup the lab machines to allow
-  you to easily pull packages from the next Ubuntu system, Ubuntu
-  Lucid, when you need them. To pull in the build dependencies for
-  package PACKAGE from Lucid use:</p>
-
-<pre><b>
-  sudo apt-get -t lucid build-dep PACKAGE
-</b></pre>
-
 
 <h3>Looking at the package documentation</h3>
 
