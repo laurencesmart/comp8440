@@ -129,6 +129,15 @@ working on a university project. Including a link to the <a
 href="http://cs.anu.edu.au/students/comp8440/">COMP8440 web site</a>
 in your first contact with a project member is a good way to do this.
 
+<h1>Plagiarism</h1>
+
+Plagiarism is taken very seriously in this course, and in the FOSS
+community in general. If you use someone elses work in making your
+assignment, then you must cite that work, giving credit where credit
+is due. If you don't then you may receive zero for the whole
+assignment. Please cite carefully! If in doubt, ask Bob or Andrew for
+assistance.
+
 <h1>Assessment FAQ</h1>
 
 A number of students have asked me some questions later about the assessment.
