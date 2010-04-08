@@ -40,6 +40,8 @@ set of OpenOffice.org slides, or a set of web pages.
 
 <h1>Project work</h1>
 
+<p><b>Due Monday the 24th of May</b></p>
+
 The project work part of your assessment comes from you working on a
 FOSS project of your choice. There are no strict rules on what form
 that work should take, but you should try to choose something that
@@ -86,6 +88,8 @@ important as contributions to the projects source code.<p>
 
 
 <h1>Project Study</h1>
+
+<p><b>Due Monday the 24th of May</b></p>
 
 The project study is a moderately detailed study of your chosen FOSS
 project. The study should cover all of the aspects of FOSS development

@@ -41,7 +41,8 @@ assessment part of the course.
 
 <li><b>Assessment period</b>. After the main course is over, the
 students are expected to prepare materials for assessment, which will
-be due by Friday the 14th of May. Details on assessment options are available on the <a href="assessment.php">assessment page</a>.
+be due by Monday the 24th of May. Details on assessment options are
+available on the <a href="assessment.php">assessment page</a>.
 </ul>
 
 <h2>Detailed Schedule</h2>
