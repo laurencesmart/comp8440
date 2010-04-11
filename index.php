@@ -19,15 +19,13 @@ Course staff:
 <p>
 
 
-<h2>2010 course dates</h2>
+<h2>Intensive week over</h2>
 
-<p>The 2010 COMP8440 course will run from Tuesday 6th April to
-Saturday 10th April. Please see the <a href="schedule.php">schedule page</a> for more details.
+<p>The intensive part of the course is now over for 2010. Thanks to
+  all the students for making it a really fun course to teach!</p>
 
-<p>You can also review any of the lecture notes or videos of the 2009
-lectures on the <a href="lectures.php">lectures page</a>. 
+<a href="photos/class-2010.jpg"><img src="photos/class-2010-small.jpg"></a>
 
-<p>
 <h2>General Information</h2>
 
 <ul>
