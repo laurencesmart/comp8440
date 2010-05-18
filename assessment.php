@@ -133,6 +133,14 @@ working on a university project. Including a link to the <a
 href="http://cs.anu.edu.au/students/comp8440/">COMP8440 web site</a>
 in your first contact with a project member is a good way to do this.
 
+<h1>Submission</h1>
+
+Please submit your assignments by the due date
+to <a href="mailto:comp8440@cs.anu.edu.au">comp8440@cs.anu.edu.au</a><p>
+
+Please send your assignments either as a PDF or as OpenOffice.org
+documents.
+
 <h1>Plagiarism</h1>
 
 Plagiarism is taken very seriously in this course, and in the FOSS
