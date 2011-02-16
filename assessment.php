@@ -25,7 +25,7 @@ during the information evening.
 
 <h1>Short presentation</h1>
 
-On Saturday the 10th of April each student will make a short
+On Saturday the 23rd of April each student will make a short
 presentation on their chosen FOSS project. That presentation should
 provide basic information on the project and its structure, and
 present the work that you have done during the lab times over the
@@ -40,7 +40,7 @@ set of OpenOffice.org slides, or a set of web pages.
 
 <h1>Project work</h1>
 
-<p><b>Due Monday the 24th of May</b></p>
+<p><b>Due Monday the 23rd of May</b></p>
 
 The project work part of your assessment comes from you working on a
 FOSS project of your choice. There are no strict rules on what form
@@ -89,7 +89,7 @@ important as contributions to the projects source code.<p>
 
 <h1>Project Study</h1>
 
-<p><b>Due Monday the 24th of May</b></p>
+<p><b>Due Monday the 23rd of May</b></p>
 
 The project study is a moderately detailed study of your chosen FOSS
 project. The study should cover all of the aspects of FOSS development
