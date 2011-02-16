@@ -4,7 +4,7 @@ include "8440head.php";
 
 <center>
 <h1>
-<font color="#931515" size="+3">COMP8440: Lab Setup (2010)</font>
+<font color="#931515" size="+3">COMP8440: Lab Setup (2011)</font>
 </h1>
 </center>
 
@@ -19,8 +19,8 @@ desktop.
 
 <p>Each machine in the N115/N116 lab has already had its disk
   repartitioned to include the new 85GB partition as /dev/sda8 and an
-  initial copy of the "master" image for FOSSD 2010, based on the
-  Ubuntu Karmic Koala (9.10) Linux distribution.</p>
+  initial copy of the "master" image for FOSSD 2011, based on the
+  Ubuntu Maverick (10.8) Linux distribution.</p>
 
 <p>For the first (initial) setup, you will need to log into the
 machine whilst it is booted in the normal (CSIT) lab environment. That
@@ -67,7 +67,7 @@ that you are least likely to disturb another students machine</p>
 <h2>FOSSD Lab Server</h2>
 
 <p>A dedicated file server has been set up for the FOSSD course for
-2010. This server has the DNS name "fossd.anu.edu.au" and is
+2011. This server has the DNS name "fossd.anu.edu.au" and is
 accessible from most anywhere on the Internet. You can log into this
 server from anywhere using Secure SHell (ssh), your standard ANU UniID
 and associated password. Please do not run large (CPU-intensive) jobs

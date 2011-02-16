@@ -90,7 +90,7 @@ to the address listed on the form.
 
 <p>
 The COMP8440 course may alternatively be taken as a non-accredited
-course. This is a cheaper option (the course fee for 2010 is $1750)
+course. This is a cheaper option (the course fee for 2010 was $1750)
 and involves no assessment. A certificate of completion will be
 awarded. The university will not provide any grading of students
 performance in the course.
