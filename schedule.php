@@ -87,7 +87,6 @@ Wednesday
 14:00 Lecture: What motivates a FOSS developer?
 15:00 Afternoon tea
 15:15 Lab: project work
-17:00 Guest lecture: Lana Brindley
 18:00 close
 
 Thursday
