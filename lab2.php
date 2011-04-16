@@ -28,12 +28,12 @@ reply to them commenting on their patch.
 <li>gedit
 <li>Battle for Wesnoth
 <li>gimp
-<li>OpenOffice.org
+<li>LibreOffice
 </ul>
 
 The level of difficulty in building these projects varies quite a
 lot. As a rough guide, the above list is approximately in order of
-difficulty, with FreeCIV being the easiest and OpenOffice.org the
+difficulty, with FreeCIV being the easiest and LibreOffice the
 hardest. In order to maximize exposure of each students to as many
 projects as possible, when a student runs into difficulties we will
 often display their screen on the projector so we can discuss the

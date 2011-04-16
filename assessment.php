@@ -36,7 +36,7 @@ chance for you to get feedback that you can use to help produce good
 reports for the remaining two main parts of the assessment.
 
 <p>To assist with your presentation you may choose either to have a
-set of OpenOffice.org slides, or a set of web pages.
+set of LibreOffice slides, or a set of web pages.
 
 <h1>Project work</h1>
 
@@ -138,7 +138,7 @@ in your first contact with a project member is a good way to do this.
 Please submit your assignments by the due date
 to <a href="mailto:comp8440@cs.anu.edu.au">comp8440@cs.anu.edu.au</a><p>
 
-Please send your assignments either as a PDF or as OpenOffice.org
+Please send your assignments either as a PDF or as LibreOffice
 documents.
 
 <h1>Plagiarism</h1>

@@ -73,13 +73,13 @@ The way this presentation will work is we will redirect your screen,
 keyboard and mouse to the projectors in the lab. You will then control
 the display via the terminal at the front of the class. You may choose
 to present your project in any way you want to. Some suggestions
-include a OpenOffice presentation, or a set of web pages, or a
+include a LibreOffice presentation, or a set of web pages, or a
 live demonstration.
 
 <h1>MAKE SURE YOU BACKUP</h1>
 
 Make sure you do a backup at the end of each lab, or you may lose all
-your work.
+your work.<p>
 
 <p><div align="center">
   <?php
