@@ -95,7 +95,7 @@ The project study is a moderately detailed study of your chosen FOSS
 project. The study should cover all of the aspects of FOSS development
 covered in the course that are relevant to the project of your
 choice. In the study you should seek to demonstrate your understanding
-of the COMP8440 course material.<p>
+of the COMP8440 lecture material.<p>
 
 The subject of your project study does not need to be the same FOSS
 project as the one you used for the project work portion of your

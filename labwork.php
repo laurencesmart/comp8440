@@ -39,8 +39,8 @@ difference to both your enjoyment of the course, and your ability to
 demonstrate your knowledge of the course material in your submitted <a
 href="assessment.php">reports</a>.<p>
 
-As a start, we suggest the following criterion for any project you
-choose:
+As a start, we strongly suggest the following criterion for any
+project you choose:
 
 <ul>
 <li>The project is moderately active. A reasonable rule of thumb is
@@ -59,6 +59,10 @@ able to judge this by looking at the projects mailing list archives.
 
 Of course, the project should also be something that you find
 interesting!<p>
+
+If you want to choose a project that does not meet these criterion
+then please discuss your choice with one of the lecturers to ensure
+that your choice is acceptable.
 
 <h1>Finding projects</h1>
 

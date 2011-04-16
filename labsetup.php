@@ -18,16 +18,17 @@ desktop.
 <h2>Initial Setup</h2>
 
 <p>Each machine in the N115/N116 lab has already had its disk
-  repartitioned to include the new 85GB partition as /dev/sda8 and an
+  repartitioned to include the new 132GB partition as /dev/sda2 and an
   initial copy of the "master" image for FOSSD 2011, based on the
-  Ubuntu Maverick (10.8) Linux distribution.</p>
+  Ubuntu Maverick (10.10) Linux distribution.</p>
 
 <p>For the first (initial) setup, you will need to log into the
 machine whilst it is booted in the normal (CSIT) lab environment. That
 is the default boot environment, which can also selected using the
 'net' option during bootup</p>
 
-<p>On your desktop you should see a icon "Setup FOSSD". Click that.</p>
+<p>On your desktop you should see a icon "Setup FOSSD". Double-click
+  that icon.</p>
 
 <p>A new terminal window should appear and you will be prompted for
 your login password (to allow you "superuser" access).</p>
@@ -36,10 +37,11 @@ your login password (to allow you "superuser" access).</p>
 filesystem, twice. You can press the "Enter" key each time to use the
 default FOSSD passphrase for the encrypted filesystem (written up on
 the whiteboard in the lab), or you can make up a new passphrase - but
-don't forget it!</p>
+don't forget it! <em>If you forget your passphrase then all your work
+will be lost, and cannot be recovered.</em></p>
 
 <p>Then you may be prompted for your login password one last time
-before the system initialises the partition with the Ubuntu Karmic
+before the system initialises the partition with the Ubuntu Maverick
 image we have prepared. As a part of this initialisation, an account
 will be created for you in this image.</p>
 
@@ -49,17 +51,17 @@ encrypted filesystem. You will be prompted for the passphrase you have
 chosen for the encrypted filesystem. It is <b>very</b> important that
 you do not forget this passphrase!</p>
 
-<p>Please try and use the same machine for all COMP8440 labwork, so
-that you are least likely to disturb another students machine</p>
+<p>Please use the same machine for all COMP8440 labwork, so that you
+are least likely to disturb another students machine</p>
 
 <h2>FOSSD Lab Environment</h2>
-<p>The "standard environment" that we have prepared for each FOSSD lab machine includes the standard Ubuntu Karmic "Gnome" desktop environment with a couple of customisations:</p>
+<p>The "standard environment" that we have prepared for each FOSSD lab machine includes the standard Ubuntu Maverick "Gnome" desktop environment with a couple of customisations:</p>
 <ul>
 <li>There is a "Terminal" icon in the task bar so that you can quickly get a shell (commandline) prompt</li>
 <li>We have installed a number of packages including most of the common version control systems</li>
 <li>There is a "Backup System" icon (see below)</li>
 <li>There is a "Pidgin" Internet Relay Chat/Messenger icon to start "pidgin"</li>
-<li>Firefox has some useful plugins added: Add Block Plus (ABP); Zotero and Scrapbook</li>
+<li>Firefox has the very useful Scrapbook plugin added</li>
 <li>Firefox hompage is set to our COMP8440 course page</li>
 <li>under "Places" there is a link to your files on the "fossd" FOSSD course server</li>
 </ul>
@@ -82,7 +84,7 @@ connection.</p>
 
 <h2>Backing up your work</h2>
 
-<p>As a part of the Ubuntu Karmic software image we have prepared for
+<p>As a part of the Ubuntu Maverick software image we have prepared for
 you, there is an icon on the desktop "Backup System". Double clicking
 on that icon will backup your entire system image (including any new
 packages you have installed and your home directory). You may be
@@ -147,13 +149,13 @@ encypted filesystem. You have been warned (again!).</p>
 <h2>Technical Information</h2>
 
 <p>The course will utilise the N115/N116 combined 40 place lab in the
-CSIT building. This lab has 40 machines each with 3.0GHz Pentium D
-CPUs, 2GB RAM, a 160GB hard disk and a 17" LCD monitor. The machines
+CSIT building. This lab has 40 machines each with 3.2GHz Corei5
+CPUs, 4GB RAM, a 320GB hard disk and a 17" LCD monitor. The machines
 are networked onto a single VLAN with 100MBps ethernet.</p>
 
 <p>The machines in the lab are normally used by CS courses with a
-software image based on Ubuntu Karmic (9.10) Linux (from October,
-2009). The machines are set to"network boot" and obtain their software
+software image based on Ubuntu Maverick (10.10) Linux (from October,
+2010). The machines are set to"network boot" and obtain their software
 image from a lab server. This image is not suitable for use by this
 course as it does not allow students to add their own packages, nor to
 gain superuser access in normal use.</p>
@@ -176,8 +178,8 @@ accidentally or deliberately interfering with each FOSSD students
 setup.</p>
 
 <p>To speed up the installation for the first lab, we have
-  pre-installed Ubuntu Karmic, released in October, 2009, hence with
-  release number 9.10.</p>
+  pre-installed Ubuntu Maverick, released in October, 2010, hence with
+  release number 10.10.</p>
 
 
 <?php

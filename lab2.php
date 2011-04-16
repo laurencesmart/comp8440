@@ -25,8 +25,8 @@ reply to them commenting on their patch.
 
 <ul>
 <li>FreeCIV
-<li>gedit
 <li>Battle for Wesnoth
+<li>gedit
 <li>gimp
 <li>LibreOffice
 </ul>
@@ -54,8 +54,8 @@ carefully before you start!
 Cooperation between developers is one of the cornerstones of FOSS
 development. So please help out your fellow students if they are stuck
 and you know what the problem is. If you think the problem is of wider
-interest, then ask Bob or Andrew to display the students screen on the
-projector.
+interest, then ask one of the tutors to display the students screen on
+the projector.
 
 <h3>Faster download</h3>
 

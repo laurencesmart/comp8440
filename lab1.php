@@ -22,8 +22,7 @@ the <a href="http://fossd.anu.edu.au/cgi-bin/mailman/listinfo">comp8440
 mailing list</a> using your ANU student email account. Note that you
 will need to be able to receive email to that account while in the
 lab. You will find that the email icon in the main menu bar of your
-lab system should be already setup for accessing your ANU mail
-account.<p>
+lab system can be setup for accessing your ANU mail account.<p>
 
 <p>When you first join the list, please send a very short email to the
 list to make sure it is working.
