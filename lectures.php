@@ -131,14 +131,6 @@ FOSS development.</p>
 <li><a href="videos/MOV00E.low.ogv">2009 LQ video</a> (128M Ogg/Theora)</li>
 </ul>
 
-<h2>Guest Lecture: Technical Writing/Documentation</h2>
-
-<p>Guest Lecture by Lana Brindley, professional Open Source Technical Writer</p>
-
-<ul>
-<li><a href="http://fossd.anu.edu.au/videos/GuestL2010.ogv">2010 video</a> (395M Ogg/Theora)</li>
-</ul>
-
 <h2>Lecture 10: Case study: Samba</h2>
 
 <p>This lecture looks at the Samba project in some detail, as a case
