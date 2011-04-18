@@ -52,7 +52,7 @@ available on the <a href="assessment.php">assessment page</a>.
 The following is a more detailed schedule for the 5 day intensive part
 of the course. 
 
-<pre>
+<pre><b>
 Monday
  9:00 introduction and welcome
  9:30 Lecture: An introduction to FOSS
@@ -112,7 +112,7 @@ Saturday
 15:00 Afternoon tea
 15:15 Lab: project presentations
 17:45 close
-</pre>
+</b></pre>
 
 </td>
 </tr>
