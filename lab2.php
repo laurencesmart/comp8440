@@ -96,6 +96,25 @@ patch. You can either use the 'diff' tool, or you can use the builtin
 patch generation in a source code management tool if you used one to
 download the package. 
 
+
+<p>Here is the code for creating and working with your patch.
+
+<p>Display the difference in code using diff command:
+<pre><b>
+  diff -up program.c program-update.c
+</b></pre>
+
+<p>Creating a patch using diff command:
+<pre><b>
+  diff -up program.c program-update.c > somepatch.patch
+</b></pre>
+
+<p>Producing difference statistics using the diffstat command:
+<pre><b>
+  diffstat somepatch.patch
+</b></pre>
+ 
+
 <p>Your patch submission should meet the following criterion:
 
 <ul>
